@@ -8,6 +8,25 @@ namespace PerformancePlaci.Parser
 {
     public class CsvParser
     {
+
+        public static void WriteFile(string path, int amount)
+        {
+            string fileName = $"indexedPerformance_{amount}.csv";
+
+            path += fileName;
+
+            if (File.Exists(path))
+            {
+                File.Delete(path);
+            }
+            
+            using (var writer = new StreamWriter(path))
+            using (var csv = new CsvWriter(writer))
+            {    
+                csv.WriteRecords(Storage.IndexedHistory);
+            }
+        }
+        
         public static (List<string> header, List<Line> lines) Parse(string path)
         {
             using (TextReader reader = new StreamReader(path))
@@ -33,7 +52,7 @@ namespace PerformancePlaci.Parser
                     line.Date = csvReader.GetField<DateTime>(0);
                     // parse values
                     int index = 1;
-                    while (csvReader.TryGetField<float>(index, out float value))
+                    while (csvReader.TryGetField<double>(index, out double value))
                     {
                         line.Values.Add(value);
                         index++;
