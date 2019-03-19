@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using PerformancePlaci.data;
@@ -17,10 +18,24 @@ namespace PerformancePlaci.Calculations
 
             for (int i = 2; i < n; i++)
             {
-                double m1 = (lines[endIndex].Values[i]/lines[endIndex-22].Values[i])-1;
-                double m2 = (lines[endIndex].Values[i]/lines[endIndex-66].Values[i])-1;
-                double m3 = (lines[endIndex].Values[i]/lines[endIndex-131].Values[i])-1;
+                // get all the start values
+                double t1 = lines[endIndex-22].Values[i];
+                double t2 = lines[endIndex - 66].Values[i];
+                double t3 = lines[endIndex - 131].Values[i];
+                // test if any of them are 0s or 1. If so, discard the performance bcs
+                // otherwise it falsifies the entire result
+                if (t1 <= 1.1 || t2 <= 1.1 || t3 <= 1.1)
+                {
+                    sumOfPerformances.Add(0);
+                    continue;
+                }
+                // if not then calculate the performance normally
+                double m1 = (lines[endIndex].Values[i]/t1)-1;
+                double m2 = (lines[endIndex].Values[i]/t2)-1;
+                double m3 = (lines[endIndex].Values[i]/t3)-1;
+
                 sumOfPerformances.Add(m1+m2+m3);
+                
             }
             
             return sumOfPerformances;
@@ -58,15 +73,23 @@ namespace PerformancePlaci.Calculations
             
             foreach (var perfOrdering in sorted)
             {
-                perfOrdering.NewPerformance = lines[startIndex + duration].Values[perfOrdering.Index] /
-                                              lines[startIndex].Values[perfOrdering.Index]-1;
-                totalPerformance += perfOrdering.NewPerformance;
+                if (lines[startIndex].Values[perfOrdering.Index] <= 1.1)
+                {
+                    perfOrdering.NewPerformance = 0;
+                }
+                else
+                {
+                    perfOrdering.NewPerformance = lines[startIndex + duration].Values[perfOrdering.Index] /
+                                                  lines[startIndex].Values[perfOrdering.Index]-1;
+                }
                 
+                totalPerformance += perfOrdering.NewPerformance;
                 step.PerfomanceResults.Add(new PerfomanceResult()
                 {
                     Index = perfOrdering.Header,
                     Performance = perfOrdering.NewPerformance
                 });
+
             }
             
             Storage.PerformanceList.Add(step);
