@@ -10,7 +10,7 @@ namespace PerformancePlaci.Calculations
         public static List<double> Calc(List<Line> lines, int endIndex)
         {
             // if there aren't enough values to calculate
-            if (endIndex > lines.Count) return null;
+            if (endIndex >= lines.Count) return null;
             // calculate 1, 3, 6 months for each value in line
             List<double> sumOfPerformances = new List<double>();
 
@@ -52,7 +52,7 @@ namespace PerformancePlaci.Calculations
         public static void CalcPerformance(int amount, int startIndex, List<Line> lines, List<string> header, List<double> performances)
         {
             int duration = 21;
-            if (startIndex + 21 > lines.Count) duration = lines.Count - startIndex-1;
+            if (startIndex + 21 >= lines.Count) duration = lines.Count - startIndex-1;
 
             List<PerfOrdering> ordering = new List<PerfOrdering>();
             for (int i = 0; i < performances.Count; i++)
