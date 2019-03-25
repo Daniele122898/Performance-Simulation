@@ -11,7 +11,27 @@ namespace PerformancePlaci
         static void Main(string[] args)
         {
 
-            (List<string> header, List<Line> lines) = CsvParser.Parse("./Data/data.csv");
+            (List<string> header, List<Line> lines) = (null, null);
+
+            try
+            {
+                (header, lines) = CsvParser.Parse("./Data/data.csv");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("Hit enter to exit.");
+                Console.Read();
+                Environment.Exit(-1);
+            }
+
+            if (header == null || lines == null)
+            {
+                Console.WriteLine("CSV file could not be Read");
+                Console.WriteLine("Hit enter to exit.");
+                Console.Read();
+                Environment.Exit(-1);
+            }
 
             while (true)
             {
