@@ -62,23 +62,26 @@ namespace PerformancePlaci.Parser
                 }
                 
                 // do a sanity check to see if the parsing went well
-                bool isAlright = CheckIntegrityOfFile(lines, header.Count-2);
+                (bool isAlright, int columnWithError) = CheckIntegrityOfFile(lines, header.Count-2);
                 if (!isAlright)
-                    throw new Exception("CSV FILE FORMAT IS INCORRECT AT SOME POINTS. Failed sanity check");
+                    throw new Exception($"CSV FILE FORMAT IS INCORRECT AT SOME POINTS. Check Column Number {columnWithError} for possible error!");
 
                 return (header, lines);
             }
         }
 
-        private static bool CheckIntegrityOfFile(List<Line> lines, int headerLength)
+        private static (bool success, int columnWithError) CheckIntegrityOfFile(List<Line> lines, int headerLength)
         {
             foreach (var line in lines)
             {
                 if (line.Values.Count < headerLength)
-                    return false;
+                {
+                    int columnWithError = line.Values.Count + 2;
+                    return (false, columnWithError);                    
+                }
             }
 
-            return true;
+            return (true, 0);
         }
     }
 }

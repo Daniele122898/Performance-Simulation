@@ -40,7 +40,17 @@ namespace PerformancePlaci
                 if (!int.TryParse(Console.ReadLine().Trim(), out int indexCount))
                 {
                     Console.WriteLine("You stupid. Enter number pls");
-                    System.Environment.Exit(-1);
+                    Console.WriteLine("Hit enter to exit.");
+                    Console.Read();
+                    Environment.Exit(-1);
+                }
+
+                if (indexCount > header.Count - 2)
+                {
+                    Console.WriteLine("Number higher than amount of Indexes");
+                    Console.WriteLine("Hit enter to exit.");
+                    Console.Read();
+                    Environment.Exit(-1);
                 }
                 
     
@@ -50,6 +60,8 @@ namespace PerformancePlaci
                 {
                     var performances = Performance.Calc(lines, endIndex);
                     if (performances == null) break;
+
+                    if (endIndex + 1 >= lines.Count) break;
                     
                     Performance.CalcPerformance(indexCount, endIndex+1, lines, header, performances);
     

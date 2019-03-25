@@ -1,1 +1,5330 @@
-[{"PerfomanceResults":[{"Index":"RU20INTR Index","Performance":-0.035394256118237877},{"Index":"DWGRST Index","Performance":0.042982934145459506},{"Index":"XAUUSD Curncy","Performance":-0.036235708003518052},{"Index":"TUKXG Index","Performance":-0.0096004320023512779},{"Index":"MXEF Index","Performance":-0.0666887563507842}]},{"PerfomanceResults":[{"Index":"RU20INTR Index","Performance":0.077570779069719986},{"Index":"XAUUSD Curncy","Performance":0.01279707495429605},{"Index":"TUKXG Index","Performance":0.073690773494479389},{"Index":"MXEF Index","Performance":0.010011806375442855},{"Index":"LG30TRUU Index","Performance":0.012869468076179835}]},{"PerfomanceResults":[{"Index":"RU20INTR Index","Performance":-0.057025212364126276},{"Index":"XAUUSD Curncy","Performance":-0.01741970604246057},{"Index":"DWGRST Index","Performance":-0.014442832677575956},{"Index":"TUKXG Index","Performance":-0.060969616374201396},{"Index":"MXEF Index","Performance":-0.10814419225634186}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.027540234638466776},{"Index":"XAUUSD Curncy","Performance":-0.016688299647691474},{"Index":"MXEF Index","Performance":-0.034471043278277214},{"Index":"RU20INTR Index","Performance":0.010990343888446441},{"Index":"TUKXG Index","Performance":0.0010797632669967694}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.032078963602714339},{"Index":"TUKXG Index","Performance":-0.019109223946635612},{"Index":"LG30TRUU Index","Performance":-0.018076163067798023},{"Index":"BERPGA Index","Performance":0.01735194303409715},{"Index":"IBOXIG Index","Performance":0.014893067323014764}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.061165869590575017},{"Index":"BERPGA Index","Performance":0.016825402649923715},{"Index":"XAUUSD Curncy","Performance":-0.026205641492265674},{"Index":"IBOXIG Index","Performance":0.026707156927117559},{"Index":"LG30TRUU Index","Performance":0.034517372657852263}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.00932314003356327},{"Index":"DWGRST Index","Performance":0.0071519748574904174},{"Index":"LG30TRUU Index","Performance":0.055174008893847937},{"Index":"BERPGA Index","Performance":0.00051067926026360233},{"Index":"MXEF Index","Performance":0.062456965802157427}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.00991611551725713},{"Index":"MXEF Index","Performance":-0.059138627187079518},{"Index":"XAUUSD Curncy","Performance":-0.0049289099526066416},{"Index":"JPEIGLBL Index","Performance":0.012936294849890118},{"Index":"LG30TRUU Index","Performance":0.010401814128967679}]},{"PerfomanceResults":[{"Index":"MXEF Index","Performance":-0.13009498274337539},{"Index":"XAUUSD Curncy","Performance":-0.026394608760763827},{"Index":"IBOXIG Index","Performance":0.0028454135319084806},{"Index":"JPEIGLBL Index","Performance":-0.016868052199130013},{"Index":"LG30TRUU Index","Performance":-0.034364705257358463}]},{"PerfomanceResults":[{"Index":"IBOXIG Index","Performance":0.0057307245501863058},{"Index":"LG30TRUU Index","Performance":0.0037590481028535461},{"Index":"BERPGA Index","Performance":-0.0077735683693858082},{"Index":"BCIT1T Index","Performance":0.015057019216652812},{"Index":"MXEF Index","Performance":0.082926829268292757}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.027548624427660151},{"Index":"IBOXIG Index","Performance":0.0065610812545846553},{"Index":"LG30TRUU Index","Performance":0.017264054841440224},{"Index":"XNDX Index","Performance":0.046077210460772067},{"Index":"XAUUSD Curncy","Performance":-0.013701166450657221}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.10503415980573427},{"Index":"MXEF Index","Performance":-0.075633516614869722},{"Index":"IBOXIG Index","Performance":0.0023307851770384413},{"Index":"XAUUSD Curncy","Performance":-0.025936073059360853},{"Index":"LG30TRUU Index","Performance":-0.028060326319660933}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.00087899929311241465},{"Index":"XAUUSD Curncy","Performance":0.0075089168387461047},{"Index":"IBOXIG Index","Performance":0.024742811495849448},{"Index":"LG30TRUU Index","Performance":0.005404307534488284},{"Index":"BEUSGA Index","Performance":0.017556323257763129}]},{"PerfomanceResults":[{"Index":"LG30TRUU Index","Performance":0.011133370340162818},{"Index":"XAUUSD Curncy","Performance":-0.0036476381542951408},{"Index":"IBOXIG Index","Performance":0.011879249024713046},{"Index":"BERPGA Index","Performance":0.0061950052654777821},{"Index":"BCIT1T Index","Performance":0.0028226290516206731}]},{"PerfomanceResults":[{"Index":"LG30TRUU Index","Performance":-0.063100872147318854},{"Index":"BERPGA Index","Performance":0.014096719849370665},{"Index":"TPXDDVD Index","Performance":-0.008750386425308343},{"Index":"BCIT1T Index","Performance":0.0053144421969255617},{"Index":"IBOXIG Index","Performance":0.01147953066977303}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.014817216361151075},{"Index":"BERPGA Index","Performance":0.025002622905745397},{"Index":"LG30TRUU Index","Performance":0.023191823257469713},{"Index":"BCIT1T Index","Performance":0.031759472224729857},{"Index":"IBOXIG Index","Performance":0.029904740079209624}]},{"PerfomanceResults":[{"Index":"BERPGA Index","Performance":-0.020141494729052023},{"Index":"LG30TRUU Index","Performance":0.014538028911905032},{"Index":"BCIT1T Index","Performance":-0.045915416911840756},{"Index":"IBOXIG Index","Performance":-0.031903412302037526},{"Index":"MXEF Index","Performance":0.1209372098007}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.01744080421486105},{"Index":"BCOMTR Index","Performance":0.042918747317578276},{"Index":"XNDX Index","Performance":-0.0044960569340257717},{"Index":"BCIT1T Index","Performance":0.01083112440889944},{"Index":"RU20INTR Index","Performance":0.043406926069254448}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.013460808564660254},{"Index":"SPTR Index","Performance":-0.051341655042911771},{"Index":"XNDX Index","Performance":-0.12336586042082298},{"Index":"RU20INTR Index","Performance":-0.057053574648589955},{"Index":"XAUUSD Curncy","Performance":0.060764798323729607}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.15669491283631487},{"Index":"BCOMTR Index","Performance":0.071587544397539338},{"Index":"BERPGA Index","Performance":-0.0073138297872341607},{"Index":"XAUUSD Curncy","Performance":-0.019683069224353589},{"Index":"MXEF Index","Performance":0.0750185002466699}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.01010885511051951},{"Index":"SPI Index","Performance":0.020203067188831136},{"Index":"XNDX Index","Performance":-0.10874442474071688},{"Index":"XAUUSD Curncy","Performance":0.031532299301175959},{"Index":"RU20INTR Index","Performance":0.017868019584334593}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.070101645171696259},{"Index":"XAUUSD Curncy","Performance":0.028793645540294621},{"Index":"XNDX Index","Performance":-0.081487061325770993},{"Index":"TUKXG Index","Performance":0.010763549385459426},{"Index":"MXEF Index","Performance":-0.00868553262751559}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.056938065006875149},{"Index":"DWGRST Index","Performance":0.018186025176278653},{"Index":"XAUUSD Curncy","Performance":0.03770518446286375},{"Index":"XNDX Index","Performance":-0.13954092945728136},{"Index":"SPI Index","Performance":-0.066102600485237084}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.051211269490731515},{"Index":"XAUUSD Curncy","Performance":-0.0066006600660064585},{"Index":"IBOXIG Index","Performance":-0.019013673115184204},{"Index":"SPI Index","Performance":-0.070053713712333154},{"Index":"BERPGA Index","Performance":0.013239036132182802}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.03897529042267367},{"Index":"IBOXIG Index","Performance":0.012057007175364287},{"Index":"TPXDDVD Index","Performance":-0.0452450473923004},{"Index":"BERPGA Index","Performance":0.019605566825296572},{"Index":"BCIT1T Index","Performance":0.038514748306758051}]},{"PerfomanceResults":[{"Index":"IBOXIG Index","Performance":0.026650124875701398},{"Index":"BERPGA Index","Performance":0.003866937090599043},{"Index":"DWGRST Index","Performance":0.0076060691817054771},{"Index":"BCIT1T Index","Performance":0.0085272503574633784},{"Index":"TPXDDVD Index","Performance":-0.033355343835487106}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.074161766491474546},{"Index":"IBOXIG Index","Performance":-0.019167129740982447},{"Index":"BERPGA Index","Performance":0.00240598264503733},{"Index":"BCIT1T Index","Performance":-0.00123701462761594},{"Index":"TPXDDVD Index","Performance":-0.062642166267776966}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.021860909333014877},{"Index":"IBOXIG Index","Performance":0.03341198373992027},{"Index":"BERPGA Index","Performance":0.013090592444124249},{"Index":"BCIT1T Index","Performance":0.010109127122257089},{"Index":"TPXDDVD Index","Performance":-0.045780401127405}]},{"PerfomanceResults":[{"Index":"MXEF Index","Performance":0.039479181172538569},{"Index":"LG30TRUU Index","Performance":0.047854081664114423},{"Index":"BERPGA Index","Performance":0.012873697880502633},{"Index":"IBOXIG Index","Performance":0.010647078243644748},{"Index":"BCIT1T Index","Performance":0.0035487516872441116}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.010218889038988488},{"Index":"MXEF Index","Performance":0.034399273681025022},{"Index":"TPXDDVD Index","Performance":0.022187381737579059},{"Index":"JPEIGLBL Index","Performance":0.029963557835065435},{"Index":"BCIT1T Index","Performance":0.018518873125976}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.10837259656629561},{"Index":"JPEIGLBL Index","Performance":0.0062609457092819287},{"Index":"MXEF Index","Performance":-0.092919061069445807},{"Index":"TPXDDVD Index","Performance":-0.0030325845986530764},{"Index":"DWGRST Index","Performance":-0.033295270925347453}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.0031686809361446411},{"Index":"TPXDDVD Index","Performance":-0.093940626270841876},{"Index":"JPEIGLBL Index","Performance":0.0334622571813481},{"Index":"MXEF Index","Performance":-0.033554162936436871},{"Index":"IBOXIG Index","Performance":0.012520934683786455}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.016742892187318281},{"Index":"MXEF Index","Performance":0.06307119893075197},{"Index":"JPEIGLBL Index","Performance":0.034841306444174158},{"Index":"DWGRST Index","Performance":0.040342060325072371},{"Index":"IBOXIG Index","Performance":0.019548872180451093}]},{"PerfomanceResults":[{"Index":"JPEIGLBL Index","Performance":0.047582532892081586},{"Index":"MXEF Index","Performance":0.029070162331046756},{"Index":"BCOMTR Index","Performance":0.040176681509137557},{"Index":"LG30TRUU Index","Performance":0.055082306503709377},{"Index":"XAUUSD Curncy","Performance":0.084364970197157385}]},{"PerfomanceResults":[{"Index":"JPEIGLBL Index","Performance":0.0529380012338061},{"Index":"SPTR Index","Performance":0.10012261354917329},{"Index":"MXEF Index","Performance":0.12332778702163072},{"Index":"XNDX Index","Performance":0.1143760694480529},{"Index":"XAUUSD Curncy","Performance":-0.0079180887372013453}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.0065002994609704157},{"Index":"BCOMTR Index","Performance":-0.012706746653623924},{"Index":"MXEF Index","Performance":0.031675556482612777},{"Index":"JPEIGLBL Index","Performance":-0.035136436002813687},{"Index":"SPTR Index","Performance":-0.026847595419350667}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.019930874664852993},{"Index":"SPTR Index","Performance":0.0081800700334171417},{"Index":"BCOMTR Index","Performance":0.02461645359931941},{"Index":"SPI Index","Performance":0.05259388402066989},{"Index":"XAUUSD Curncy","Performance":0.0319654427645788}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.00917922849248265},{"Index":"XNDX Index","Performance":0.05950172479877347},{"Index":"SPTR Index","Performance":0.024935790837405714},{"Index":"TUKXG Index","Performance":0.013789908613194513},{"Index":"SPI Index","Performance":0.044027042058825128}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.025904014581627832},{"Index":"XNDX Index","Performance":-0.0038134809397099012},{"Index":"BCOMTR Index","Performance":0.069507841323826147},{"Index":"TUKXG Index","Performance":0.0079264848381865871},{"Index":"SPTR Index","Performance":0.00112953403574223}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.041630067094025058},{"Index":"SPI Index","Performance":-0.0008165609088586212},{"Index":"XNDX Index","Performance":-0.031486439708095171},{"Index":"XAUUSD Curncy","Performance":0.068032677112628726},{"Index":"SPTR Index","Performance":-0.0083326036736662834}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.075632974936565622},{"Index":"XNDX Index","Performance":0.038260794236336215},{"Index":"XAUUSD Curncy","Performance":0.039741804834831029},{"Index":"TPXDDVD Index","Performance":0.044548434119755287},{"Index":"SPTR Index","Performance":0.046354589229456344}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.023982960596379055},{"Index":"DWGRST Index","Performance":0.039789002457463862},{"Index":"XAUUSD Curncy","Performance":-0.0051300842799560931},{"Index":"XNDX Index","Performance":0.0893954935906831},{"Index":"RU20INTR Index","Performance":0.080655898202102838}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.0076162397887108435},{"Index":"XNDX Index","Performance":-0.028979377347124524},{"Index":"SPTR Index","Performance":0.013148297474066872},{"Index":"RU20INTR Index","Performance":-0.010114662328534862},{"Index":"XAUUSD Curncy","Performance":-0.0046021557466392471}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.066962693268059814},{"Index":"XAUUSD Curncy","Performance":0.0057807697936484992},{"Index":"XNDX Index","Performance":-0.057972956674394616},{"Index":"RU20INTR Index","Performance":-0.019477911815286464},{"Index":"DWGRST Index","Performance":0.022279439562831405}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.061020456360139863},{"Index":"XAUUSD Curncy","Performance":-0.053684841222288782},{"Index":"BCOMTR Index","Performance":-0.026074395365233038},{"Index":"SPI Index","Performance":0.070837867792717057},{"Index":"RU20INTR Index","Performance":0.031040985123160114}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.0088370307388295766},{"Index":"BCOMTR Index","Performance":0.029764901582493897},{"Index":"DWGRST Index","Performance":-0.014726613330762972},{"Index":"0000AR Index","Performance":-0.048608376485930971},{"Index":"TUKXG Index","Performance":-0.020978901145978335}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.073782350104484751},{"Index":"SPI Index","Performance":0.015517828943894862},{"Index":"TUKXG Index","Performance":0.018017308861279835},{"Index":"SXXR Index","Performance":0.039185625804869062},{"Index":"0000AR Index","Performance":0.033720162339611504}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.019111561624232332},{"Index":"XAUUSD Curncy","Performance":0.0045575389289784773},{"Index":"0000AR Index","Performance":-0.0063782082740342361},{"Index":"TUKXG Index","Performance":-0.019238509913567348},{"Index":"SPTR Index","Performance":-0.034558810749712232}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.044804455132261722},{"Index":"JPEIGLBL Index","Performance":0.037098482174373393},{"Index":"IBOXIG Index","Performance":0.019286403085824411},{"Index":"SPI Index","Performance":-0.023125026230746637},{"Index":"BCIT1T Index","Performance":0.023774005467124493}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.0017075253079643637},{"Index":"MXEF Index","Performance":0.0810240963855422},{"Index":"TPXDDVD Index","Performance":0.0017595215363856997},{"Index":"JPEIGLBL Index","Performance":0.030411388094265135},{"Index":"IBOXIG Index","Performance":0.023566321319130168}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.040260218485332011},{"Index":"BCOMTR Index","Performance":0.048348248982324371},{"Index":"SXXR Index","Performance":0.00077194857634865777},{"Index":"MXEF Index","Performance":0.0070891328780149365},{"Index":"JPEIGLBL Index","Performance":0.0052064454476554722}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.058246705796384024},{"Index":"DWGRST Index","Performance":0.055043174073441392},{"Index":"TPXDDVD Index","Performance":-0.00096336020037890435},{"Index":"MXEF Index","Performance":0.07096016234113},{"Index":"JPEIGLBL Index","Performance":0.016348327490744774}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.016441113969354659},{"Index":"BCOMTR Index","Performance":-0.0377352098679925},{"Index":"XNDX Index","Performance":0.033111152059677629},{"Index":"SPTR Index","Performance":0.029439114103440245},{"Index":"TPXDDVD Index","Performance":0.030085821735077678}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.0339174674957603},{"Index":"BCOMTR Index","Performance":0.00086307896586745869},{"Index":"XNDX Index","Performance":-0.068230316522252421},{"Index":"SPTR Index","Performance":-0.033993433877318791},{"Index":"MXEF Index","Performance":-0.0087712679669520455}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.03607509763390504},{"Index":"XAUUSD Curncy","Performance":0.019890019890019817},{"Index":"SXXR Index","Performance":0.042986932869721217},{"Index":"0000AR Index","Performance":0.0631799063867764},{"Index":"MXEF Index","Performance":0.084447478712711854}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.032278081224687005},{"Index":"RU20INTR Index","Performance":-0.0075919490174092275},{"Index":"SXXR Index","Performance":0.0024589942443322688},{"Index":"0000AR Index","Performance":-0.012841501369297514},{"Index":"XAUUSD Curncy","Performance":-0.021861696007363984}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.030946423829026015},{"Index":"BCOMTR Index","Performance":-0.0035131039497222627},{"Index":"SPI Index","Performance":0.0021973094170404384},{"Index":"0000AR Index","Performance":-0.010662000304641484},{"Index":"RU20INTR Index","Performance":-0.029489122095195497}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.047399253111433781},{"Index":"TUKXG Index","Performance":0.029881436419503915},{"Index":"XAUUSD Curncy","Performance":-0.040150995195607386},{"Index":"0000AR Index","Performance":0.010002547724336175},{"Index":"RU20INTR Index","Performance":0.032945444237433508}]},{"PerfomanceResults":[{"Index":"TUKXG Index","Performance":0.019538587867403034},{"Index":"XAUUSD Curncy","Performance":0.0530157970320726},{"Index":"0000AR Index","Performance":0.045726387563510107},{"Index":"SXXR Index","Performance":0.040557934277233532},{"Index":"BCIT1T Index","Performance":0.010925818816514221}]},{"PerfomanceResults":[{"Index":"0000AR Index","Performance":0.038108785008050594},{"Index":"XAUUSD Curncy","Performance":-0.03706230104593},{"Index":"TUKXG Index","Performance":0.043063955232448325},{"Index":"RU20INTR Index","Performance":0.074703552310203758},{"Index":"DWGRST Index","Performance":0.040957609995027955}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.027820103219464265},{"Index":"TUKXG Index","Performance":0.0053573011398890813},{"Index":"RU20INTR Index","Performance":-0.024677189790328069},{"Index":"XAUUSD Curncy","Performance":0.031022326674500666},{"Index":"SPTR Index","Performance":-0.017934262782805854}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.061827285629876938},{"Index":"DWGRST Index","Performance":0.016306191993122887},{"Index":"RU20INTR Index","Performance":0.018677185041938937},{"Index":"BCOMTR Index","Performance":0.064577069054778446},{"Index":"TUKXG Index","Performance":0.044145539889458796}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.012796186774596041},{"Index":"BCOMTR Index","Performance":-0.0043324028843917395},{"Index":"TUKXG Index","Performance":-0.039550384593160626},{"Index":"RU20INTR Index","Performance":-0.030475104561788147},{"Index":"DWGRST Index","Performance":-0.024565752796588569}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.079112972304178131},{"Index":"TUKXG Index","Performance":0.070383922037589031},{"Index":"DWGRST Index","Performance":0.063920421837942554},{"Index":"TPXDDVD Index","Performance":0.0743650981750561},{"Index":"BCOMTR Index","Performance":-0.038221029888838909}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.017405508627047261},{"Index":"TUKXG Index","Performance":0.022160636870268258},{"Index":"BCOMTR Index","Performance":0.031798372741718817},{"Index":"TPXDDVD Index","Performance":0.061587967193447835},{"Index":"RU20INTR Index","Performance":0.0085419637089734213}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.027042191481998046},{"Index":"BCOMTR Index","Performance":-0.0030941218192526154},{"Index":"TUKXG Index","Performance":0.018118373372701724},{"Index":"TPXDDVD Index","Performance":-0.0061710962586422058},{"Index":"0000AR Index","Performance":0.04313153723293417}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.060199069286452911},{"Index":"TPXDDVD Index","Performance":-0.0195986146424314},{"Index":"SPI Index","Performance":0.030530188065687636},{"Index":"RU20INTR Index","Performance":0.012270305507766421},{"Index":"TUKXG Index","Performance":0.018466351687344007}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.021601911999019618},{"Index":"SPI Index","Performance":0.019741328551992066},{"Index":"TPXDDVD Index","Performance":0.036223243899010216},{"Index":"TUKXG Index","Performance":0.0367149146422574},{"Index":"0000AR Index","Performance":0.045584371031475612}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.0058871285057551237},{"Index":"XAUUSD Curncy","Performance":0.11174721821116118},{"Index":"SPI Index","Performance":0.013358469279248775},{"Index":"XNDX Index","Performance":-0.0045364184831604426},{"Index":"BCOMTR Index","Performance":0.054172776831569847}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.060767227564102577},{"Index":"BCOMTR Index","Performance":0.0064832613141829754},{"Index":"XAUUSD Curncy","Performance":-0.0033582659136009996},{"Index":"XNDX Index","Performance":-0.067598972083521169},{"Index":"0000AR Index","Performance":-0.041358385678608056}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.020045719261960415},{"Index":"DWGRST Index","Performance":0.014194782505493331},{"Index":"XAUUSD Curncy","Performance":-0.070598264104153818},{"Index":"JPEIGLBL Index","Performance":-0.0070783219197790848},{"Index":"RU20INTR Index","Performance":-0.00795555971497941}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.0093982416891916776},{"Index":"XAUUSD Curncy","Performance":0.033936835268328247},{"Index":"SXXR Index","Performance":0.017609742643158732},{"Index":"BEUSGA Index","Performance":0.012583811298338743},{"Index":"DWGRST Index","Performance":0.03860159005239483}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.042621937079693972},{"Index":"TPXDDVD Index","Performance":0.029260585979713927},{"Index":"DWGRST Index","Performance":0.035160007957187656},{"Index":"TUKXG Index","Performance":0.015135752230313715},{"Index":"JPEIGLBL Index","Performance":0.023442508710801446}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.046229874063446474},{"Index":"TUKXG Index","Performance":0.010479896081192486},{"Index":"0000AR Index","Performance":-0.02320459896899163},{"Index":"SXXR Index","Performance":0.020616051357864595},{"Index":"RU20INTR Index","Performance":0.008325548439194641}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.016591251885369473},{"Index":"TUKXG Index","Performance":0.029383305186102326},{"Index":"0000AR Index","Performance":0.048610780189008551},{"Index":"MXEF Index","Performance":0.042696744293231337},{"Index":"JPEIGLBL Index","Performance":0.016439389856087949}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.049222797927461093},{"Index":"SPTR Index","Performance":0.02643350084390117},{"Index":"0000AR Index","Performance":0.060094527231129735},{"Index":"TUKXG Index","Performance":-0.013507308709424293},{"Index":"XNDX Index","Performance":0.0496890468333544}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.01363073110285018},{"Index":"BCOMTR Index","Performance":-0.042650748598378585},{"Index":"SPTR Index","Performance":0.016874673523582295},{"Index":"XNDX Index","Performance":-0.00969969220530742},{"Index":"RU20INTR Index","Performance":0.00968495902902311}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.0021049413577987064},{"Index":"XAUUSD Curncy","Performance":0.019828259172521623},{"Index":"0000AR Index","Performance":0.010090171712072493},{"Index":"TUKXG Index","Performance":-0.016801553170115002},{"Index":"RU20INTR Index","Performance":0.016734361721397972}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.022443700547778445},{"Index":"TUKXG Index","Performance":-0.023533145914573339},{"Index":"BCOMTR Index","Performance":0.0239697736223623},{"Index":"SPTR Index","Performance":-0.038617031859566775},{"Index":"0000AR Index","Performance":-0.019719234332553404}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.042962613886270873},{"Index":"SPI Index","Performance":0.053880347647042637},{"Index":"JPEIGLBL Index","Performance":0.014199356913183303},{"Index":"BCOMTR Index","Performance":0.03363031350721557},{"Index":"TUKXG Index","Performance":0.058948305968662629}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.011863275747015622},{"Index":"BCOMTR Index","Performance":0.0088448445419471167},{"Index":"RU20INTR Index","Performance":0.022907779689377961},{"Index":"0000AR Index","Performance":0.019274086419854841},{"Index":"XNDX Index","Performance":0.052442383744715659}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.012146051785260292},{"Index":"RU20INTR Index","Performance":0.027525732662244673},{"Index":"SPTR Index","Performance":0.02421265087128166},{"Index":"TUKXG Index","Performance":0.012119374240211478},{"Index":"XAUUSD Curncy","Performance":-0.02569499891122895}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.023411599545302142},{"Index":"0000AR Index","Performance":-0.0029941880082451355},{"Index":"TUKXG Index","Performance":0.0088276845482513355},{"Index":"RU20INTR Index","Performance":0.0012049179758824025},{"Index":"SXXR Index","Performance":0.00434010322407663}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.0033520296721182286},{"Index":"SPTR Index","Performance":-0.059454259212125549},{"Index":"RU20INTR Index","Performance":-0.11077148707731477},{"Index":"0000AR Index","Performance":-0.034994972495226317},{"Index":"SXXR Index","Performance":-0.057128463476070479}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.0005498742047560512},{"Index":"IBOXIG Index","Performance":0.0042980181731420153},{"Index":"BERPGA Index","Performance":0.0055494992761675466},{"Index":"SPTR Index","Performance":0.016576163868319727},{"Index":"BEUSGA Index","Performance":0.014709229258297096}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.065118751017624543},{"Index":"SPTR Index","Performance":0.049278924079797726},{"Index":"TPXDDVD Index","Performance":0.060578005890505882},{"Index":"RU20INTR Index","Performance":0.050277557117113458},{"Index":"SXXR Index","Performance":0.031577640192304246}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.040822736949870375},{"Index":"TPXDDVD Index","Performance":-0.049339957561413517},{"Index":"SPTR Index","Performance":-0.034687630638125855},{"Index":"DWGRST Index","Performance":-0.071846793794926089},{"Index":"IBOXIG Index","Performance":0.01176445908792334}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.044453930789462914},{"Index":"TPXDDVD Index","Performance":-0.030422250967468312},{"Index":"SPTR Index","Performance":-0.020738512651257812},{"Index":"DWGRST Index","Performance":-0.035710227036496067},{"Index":"IBOXIG Index","Performance":0.0078692529304449366}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.068562874251496986},{"Index":"TPXDDVD Index","Performance":-0.0898756506021472},{"Index":"IBOXIG Index","Performance":0.010868447749786903},{"Index":"BERPGA Index","Performance":0.0034387256141654721},{"Index":"SPTR Index","Performance":-0.062318259024521594}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.026689873494487371},{"Index":"DWGRST Index","Performance":0.013979140763091147},{"Index":"IBOXIG Index","Performance":0.00987863843480441},{"Index":"BERPGA Index","Performance":0.019318330445018628},{"Index":"MXEF Index","Performance":-0.066014062461179135}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.00811130769631041},{"Index":"DWGRST Index","Performance":-0.0099526538268812637},{"Index":"IBOXIG Index","Performance":-0.00946898369828364},{"Index":"BERPGA Index","Performance":-0.0015572474295370009},{"Index":"BCIT1T Index","Performance":0.018802580488594067}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.056158182150373159},{"Index":"DWGRST Index","Performance":0.10454407232381357},{"Index":"IBOXIG Index","Performance":-0.004928091013165381},{"Index":"BERPGA Index","Performance":-0.0060116193329921019},{"Index":"MXEF Index","Performance":0.038595078299776375}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.018500940216640283},{"Index":"TPXDDVD Index","Performance":0.086222413523243},{"Index":"IBOXIG Index","Performance":0.0046764488749519995},{"Index":"BERPGA Index","Performance":-0.003093913997023412},{"Index":"MXEF Index","Performance":0.0454852803495267}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.034110191960971425},{"Index":"RU20INTR Index","Performance":0.029963564559117417},{"Index":"SXXR Index","Performance":-0.049571772506610934},{"Index":"JPEIGLBL Index","Performance":0.0016328882912304277},{"Index":"MXEF Index","Performance":-0.011367055598275}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":-0.0896078946019696},{"Index":"RU20INTR Index","Performance":-0.07009324956632712},{"Index":"SPTR Index","Performance":-0.06308486967283411},{"Index":"XNDX Index","Performance":-0.054679326477032664},{"Index":"TPXDDVD Index","Performance":-0.081042903658303023}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.032713273252253039},{"Index":"TPXDDVD Index","Performance":-0.020744729278031504},{"Index":"IBOXIG Index","Performance":-0.01198169324006082},{"Index":"BEUSGA Index","Performance":-0.000492811781829694},{"Index":"BERPGA Index","Performance":0.014718690660802558}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.0842183705851638},{"Index":"SPTR Index","Performance":-0.019713130397963408},{"Index":"BEUSGA Index","Performance":0.015900853171775697},{"Index":"IBOXIG Index","Performance":0.013576206340117691},{"Index":"BERPGA Index","Performance":0.010331797844914226}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.2269946996967207},{"Index":"BERPGA Index","Performance":0.021958926066786955},{"Index":"BCIT1T Index","Performance":-0.062846144232422185},{"Index":"BEUSGA Index","Performance":0.0052841202676678911},{"Index":"MXEF Index","Performance":-0.30249372539086783}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.028808808442034373},{"Index":"BCIT1T Index","Performance":-0.033841956463566469},{"Index":"BERPGA Index","Performance":0.0098662407089729065},{"Index":"BEUSGA Index","Performance":0.001849431437850102},{"Index":"IBOXIG Index","Performance":-0.0065379518002255388}]},{"PerfomanceResults":[{"Index":"BCIT1T Index","Performance":0.019000210018901731},{"Index":"BERPGA Index","Performance":0.015206085549156922},{"Index":"BEUSGA Index","Performance":0.058453601954020717},{"Index":"IBOXIG Index","Performance":0.041949684484294592},{"Index":"LG30TRUU Index","Performance":-0.084490095450445057}]},{"PerfomanceResults":[{"Index":"BERPGA Index","Performance":0.00870497528417924},{"Index":"BCIT1T Index","Performance":0.01710234777005426},{"Index":"BEUSGA Index","Performance":0.0079349439138647337},{"Index":"TPXDDVD Index","Performance":0.032622084475702362},{"Index":"LG30TRUU Index","Performance":0.13936736519049897}]},{"PerfomanceResults":[{"Index":"LG30TRUU Index","Performance":0.0042465150706447741},{"Index":"BERPGA Index","Performance":-0.006572730292998985},{"Index":"BCIT1T Index","Performance":0.012671665328537696},{"Index":"BEUSGA Index","Performance":-0.026000780987611827},{"Index":"MXEF Index","Performance":-0.011273522975930095}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.071316822937176},{"Index":"LG30TRUU Index","Performance":-0.063895005084849021},{"Index":"BERPGA Index","Performance":0.0035658190771321596},{"Index":"BCIT1T Index","Performance":-0.032965934556591914},{"Index":"IBOXIG Index","Performance":-0.048871666731737817}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.2211948370945076},{"Index":"BCIT1T Index","Performance":0.034110294596138457},{"Index":"BERPGA Index","Performance":0.0025012008660085794},{"Index":"BEUSGA Index","Performance":0.0019306183616556449},{"Index":"MXEF Index","Performance":0.23270732794542304}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.071340713407134},{"Index":"SPTR Index","Performance":0.05936366083445499},{"Index":"MXEF Index","Performance":0.12571027162035597},{"Index":"XNDX Index","Performance":0.030941250881491245},{"Index":"RU20INTR Index","Performance":0.058950938474086056}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.095447424123735525},{"Index":"JPEIGLBL Index","Performance":0.023126232741617292},{"Index":"MXEF Index","Performance":0.11433079296209159},{"Index":"TPXDDVD Index","Performance":0.056800191450977477},{"Index":"RU20INTR Index","Performance":0.11657590106654614}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.11481404095277903},{"Index":"JPEIGLBL Index","Performance":0.0056290594178494135},{"Index":"RU20INTR Index","Performance":-0.062509971974416323},{"Index":"SPTR Index","Performance":-0.046228898266716389},{"Index":"XNDX Index","Performance":-0.028176993455540034}]},{"PerfomanceResults":[{"Index":"JPEIGLBL Index","Performance":0.035118294458901245},{"Index":"BCOMTR Index","Performance":0.12716269319196494},{"Index":"SPTR Index","Performance":0.11229127148844964},{"Index":"MXEF Index","Performance":0.13610427539955094},{"Index":"LG30TRUU Index","Performance":0.080204655122541935}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.052813471990951655},{"Index":"BCOMTR Index","Performance":-0.05463301355261152},{"Index":"SPTR Index","Performance":0.03172820924153319},{"Index":"XNDX Index","Performance":0.035729380599458294},{"Index":"JPEIGLBL Index","Performance":0.032310772558856726}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.063987202559488088},{"Index":"BCOMTR Index","Performance":0.058889214689969105},{"Index":"XNDX Index","Performance":0.021745098487794934},{"Index":"0000AR Index","Performance":0.0095587719676784033},{"Index":"SPTR Index","Performance":0.024121546627078772}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.0045370146730270289},{"Index":"XAUUSD Curncy","Performance":0.038926806307366446},{"Index":"JPEIGLBL Index","Performance":-0.008481818570268862},{"Index":"XNDX Index","Performance":0.011246500996560327},{"Index":"SXXR Index","Performance":5.007887422681101E-05}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.0072676887319536032},{"Index":"BCOMTR Index","Performance":0.021099181787349375},{"Index":"SPTR Index","Performance":0.020936808369381055},{"Index":"SXXR Index","Performance":-0.0017436357295870231},{"Index":"TPXDDVD Index","Performance":0.020004687133817534}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.039245341095584418},{"Index":"XAUUSD Curncy","Performance":0.011625633277042136},{"Index":"TPXDDVD Index","Performance":0.06794295329784017},{"Index":"SPTR Index","Performance":0.03548027095440287},{"Index":"JPEIGLBL Index","Performance":0.012361018873583429}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.0399474950776636},{"Index":"BCOMTR Index","Performance":-0.060600646038094119},{"Index":"SPTR Index","Performance":-0.061899760419026451},{"Index":"XNDX Index","Performance":-0.056475424962578735},{"Index":"SXXR Index","Performance":-0.067425089844586839}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.06223951864425481},{"Index":"JPEIGLBL Index","Performance":0.037560089734002711},{"Index":"MXEF Index","Performance":0.072183231862273267},{"Index":"XNDX Index","Performance":0.087113371255955974},{"Index":"RU20INTR Index","Performance":0.11420454292675775}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.053280466821276296},{"Index":"SXXR Index","Performance":0.043348666917010892},{"Index":"SPTR Index","Performance":0.040161225145320278},{"Index":"XAUUSD Curncy","Performance":0.034656337299072693},{"Index":"TUKXG Index","Performance":0.033201043516873918}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.047910222286166482},{"Index":"SPTR Index","Performance":-0.044675816710236682},{"Index":"SPI Index","Performance":-0.063777024442363328},{"Index":"SXXR Index","Performance":-0.0662797870639037},{"Index":"0000AR Index","Performance":-0.019454192647890944}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.01060692031263577},{"Index":"TPXDDVD Index","Performance":-0.023192468397947974},{"Index":"XAUUSD Curncy","Performance":0.0031995298649993842},{"Index":"LG30TRUU Index","Performance":-0.012507276356108155},{"Index":"SPTR Index","Performance":-0.0037744934960795007}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.052194586354273431},{"Index":"XAUUSD Curncy","Performance":-0.041890198849947047},{"Index":"0000AR Index","Performance":-0.029199416600454331},{"Index":"BERPGA Index","Performance":0.0074770758109956592},{"Index":"IBOXIG Index","Performance":0.032009197862952421}]},{"PerfomanceResults":[{"Index":"LG30TRUU Index","Performance":0.0217872485665489},{"Index":"BERPGA Index","Performance":0.019509238949017904},{"Index":"MXEF Index","Performance":0.051562863733519482},{"Index":"JPEIGLBL Index","Performance":0.046776987872632736},{"Index":"IBOXIG Index","Performance":0.030575903045898523}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.037378996176685941},{"Index":"MXEF Index","Performance":0.037179358213459412},{"Index":"LG30TRUU Index","Performance":0.019856814273067069},{"Index":"0000AR Index","Performance":0.035869950798722572},{"Index":"BCOMTR Index","Performance":0.034191953419701049}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.074102560077853763},{"Index":"TPXDDVD Index","Performance":-0.017569532297351032},{"Index":"JPEIGLBL Index","Performance":0.032551560678173663},{"Index":"BCOMTR Index","Performance":0.056453629059091792},{"Index":"MXEF Index","Performance":0.073826669498233466}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.019911165568999856},{"Index":"XAUUSD Curncy","Performance":0.0030405405405404817},{"Index":"BCOMTR Index","Performance":-0.0023117736668784028},{"Index":"SPTR Index","Performance":0.01297759714624025},{"Index":"DWGRST Index","Performance":-0.028311867168071214}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.04113170344842354},{"Index":"BCOMTR Index","Performance":0.059001188107512537},{"Index":"DWGRST Index","Performance":0.0075185054635178439},{"Index":"XAUUSD Curncy","Performance":0.016218053390275156},{"Index":"RU20INTR Index","Performance":0.082448079488660175}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.047729451078931673},{"Index":"DWGRST Index","Performance":0.050172563526085456},{"Index":"SPTR Index","Performance":0.039801004522450834},{"Index":"BCOMTR Index","Performance":0.032672916019942155},{"Index":"RU20INTR Index","Performance":0.033278239060646087}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.0417466950533083},{"Index":"SPTR Index","Performance":0.047493386568405516},{"Index":"DWGRST Index","Performance":0.027478760598938834},{"Index":"XAUUSD Curncy","Performance":0.010380622837370179},{"Index":"BCOMTR Index","Performance":0.007637273338120476}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":-0.053778050315221759},{"Index":"SPTR Index","Performance":-0.031671721620329829},{"Index":"RU20INTR Index","Performance":-0.024919020150519278},{"Index":"DWGRST Index","Performance":-0.020769168879233968},{"Index":"SPI Index","Performance":-0.060430448459897534}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.0413100991737978},{"Index":"XNDX Index","Performance":0.044453593894581367},{"Index":"RU20INTR Index","Performance":0.0390423424189954},{"Index":"TPXDDVD Index","Performance":-0.025198744193731804},{"Index":"XAUUSD Curncy","Performance":0.05221136674020399}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.0077773044399607194},{"Index":"XNDX Index","Performance":-0.009584613028302269},{"Index":"TPXDDVD Index","Performance":-0.016531480059194914},{"Index":"SPTR Index","Performance":-0.0011601903012865566},{"Index":"BCOMTR Index","Performance":-0.06807812389787915}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.0022271500192826421},{"Index":"XAUUSD Curncy","Performance":0.019234064992419864},{"Index":"XNDX Index","Performance":-0.027325857547033539},{"Index":"JPEIGLBL Index","Performance":0.0060633984518982942},{"Index":"IBOXIG Index","Performance":0.0035591979016735831}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.038337200015213124},{"Index":"XAUUSD Curncy","Performance":0.026856903063365412},{"Index":"IBOXIG Index","Performance":0.0042891125088599935},{"Index":"MXEF Index","Performance":0.024223964165733358},{"Index":"LG30TRUU Index","Performance":0.010958138994989541}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.14489298244023596},{"Index":"XAUUSD Curncy","Performance":0.18492752899152598},{"Index":"SPTR Index","Performance":-0.16280750854466919},{"Index":"IBOXIG Index","Performance":0.024793175765217557},{"Index":"XNDX Index","Performance":-0.15708552993941305}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.0092984205278900944},{"Index":"IBOXIG Index","Performance":0.00467468864525733},{"Index":"BERPGA Index","Performance":-0.00788250037386673},{"Index":"LG30TRUU Index","Performance":-0.010204597814643224},{"Index":"MXEF Index","Performance":-0.046439440048691383}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.009421393224209984},{"Index":"IBOXIG Index","Performance":-0.0049725178948216708},{"Index":"BERPGA Index","Performance":-0.022750392884220538},{"Index":"SPTR Index","Performance":0.098147820404960173},{"Index":"LG30TRUU Index","Performance":0.021327343374074381}]},{"PerfomanceResults":[{"Index":"BERPGA Index","Performance":-0.021251316811813803},{"Index":"IBOXIG Index","Performance":-0.0069820853058643051},{"Index":"LG30TRUU Index","Performance":-0.011091366821492032},{"Index":"TPXDDVD Index","Performance":-0.049781226781144272},{"Index":"MXEF Index","Performance":-0.04218498193576925}]},{"PerfomanceResults":[{"Index":"IBOXIG Index","Performance":0.01103642827049689},{"Index":"BERPGA Index","Performance":0.039160152469393417},{"Index":"TPXDDVD Index","Performance":0.0074609035621198139},{"Index":"MXEF Index","Performance":0.038734383119083615},{"Index":"LG30TRUU Index","Performance":0.021624467300505712}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.065818574873201863},{"Index":"IBOXIG Index","Performance":0.017037366911334173},{"Index":"MXEF Index","Performance":0.077546620674787015},{"Index":"BERPGA Index","Performance":0.011839816198021991},{"Index":"TUKXG Index","Performance":0.049722734683370406}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.034723977378003035},{"Index":"TUKXG Index","Performance":0.033290018387451381},{"Index":"TPXDDVD Index","Performance":0.089874471825555746},{"Index":"SXXR Index","Performance":0.035374520355107464},{"Index":"0000AR Index","Performance":0.02619196839021054}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.026428948936313423},{"Index":"XNDX Index","Performance":0.051924919718814744},{"Index":"0000AR Index","Performance":-0.018399674524178455},{"Index":"SPI Index","Performance":0.018595022918659776},{"Index":"SXXR Index","Performance":0.0093821409738090722}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.03011982125026591},{"Index":"XNDX Index","Performance":-0.0497804156734718},{"Index":"SPI Index","Performance":-0.013112756161415495},{"Index":"0000AR Index","Performance":-0.044555353464068026},{"Index":"XAUUSD Curncy","Performance":-0.028357926374705689}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.051359112257562178},{"Index":"SPTR Index","Performance":-0.048215456265100043},{"Index":"MXEF Index","Performance":-0.10820135634774697},{"Index":"JPEIGLBL Index","Performance":-0.02068209379204955},{"Index":"SPI Index","Performance":-0.043697334961016021}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.0072345835982199347},{"Index":"BCIT1T Index","Performance":0.0061488167744219169},{"Index":"SPTR Index","Performance":-0.001289701146926836},{"Index":"IBOXIG Index","Performance":0.01735888936133323},{"Index":"LG30TRUU Index","Performance":0.015632286345529378}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.019702961484175274},{"Index":"MXEF Index","Performance":-0.0013232618404367402},{"Index":"LG30TRUU Index","Performance":0.013665173653526264},{"Index":"IBOXIG Index","Performance":0.0339593122703048},{"Index":"JPEIGLBL Index","Performance":0.033444152235398983}]},{"PerfomanceResults":[{"Index":"LG30TRUU Index","Performance":0.025881754158093129},{"Index":"MXEF Index","Performance":0.053500501942298495},{"Index":"XAUUSD Curncy","Performance":0.033821208651793278},{"Index":"DWGRST Index","Performance":0.018452849822258477},{"Index":"IBOXIG Index","Performance":-0.0048787135103270929}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.0238635170005268},{"Index":"0000AR Index","Performance":0.019813979393578318},{"Index":"XAUUSD Curncy","Performance":0.058095999326911008},{"Index":"TUKXG Index","Performance":0.01628556879013332},{"Index":"MXEF Index","Performance":0.042659700684803292}]},{"PerfomanceResults":[{"Index":"0000AR Index","Performance":0.0073804116967082223},{"Index":"TPXDDVD Index","Performance":0.011962605326280906},{"Index":"TUKXG Index","Performance":0.0080999498562712713},{"Index":"MXEF Index","Performance":0.0088350818381008889},{"Index":"JPEIGLBL Index","Performance":0.016877702285361229}]},{"PerfomanceResults":[{"Index":"JPEIGLBL Index","Performance":0.00521119034558426},{"Index":"MXEF Index","Performance":0.0044413041283939414},{"Index":"0000AR Index","Performance":-0.00751123194177028},{"Index":"TUKXG Index","Performance":0.00054896226438327922},{"Index":"RU20INTR Index","Performance":-0.0039729061180980851}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.085752402839586628},{"Index":"SPI Index","Performance":0.027139475925128442},{"Index":"0000AR Index","Performance":0.024341499639955355},{"Index":"TUKXG Index","Performance":0.027609756576557176},{"Index":"MXEF Index","Performance":0.050389386214925169}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.083941594297316291},{"Index":"BCOMTR Index","Performance":0.011030048729117281},{"Index":"0000AR Index","Performance":0.03782712099727803},{"Index":"TUKXG Index","Performance":0.056367367317151196},{"Index":"XAUUSD Curncy","Performance":-0.0032750435670931832}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.0026830197569140957},{"Index":"TUKXG Index","Performance":0.00027093662792276874},{"Index":"XNDX Index","Performance":-0.0084226593836844721},{"Index":"SXXR Index","Performance":-0.014595844751520759},{"Index":"BCOMTR Index","Performance":-0.024490654709598325}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.045205175045958335},{"Index":"TUKXG Index","Performance":0.018797782917369332},{"Index":"XNDX Index","Performance":0.028907538913994557},{"Index":"SXXR Index","Performance":0.026208810538248084},{"Index":"XAUUSD Curncy","Performance":-8.1397533028493285E-05}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.024017527535183492},{"Index":"TUKXG Index","Performance":0.0099653550775229416},{"Index":"XNDX Index","Performance":0.017654635752795356},{"Index":"SXXR Index","Performance":0.018645133029881578},{"Index":"XAUUSD Curncy","Performance":-0.0761564945226918}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.018392216439861553},{"Index":"XAUUSD Curncy","Performance":-0.056720683140223827},{"Index":"TUKXG Index","Performance":0.03527069246707093},{"Index":"XNDX Index","Performance":0.039544728719079991},{"Index":"SXXR Index","Performance":0.025628536101015564}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.04054467300953557},{"Index":"XNDX Index","Performance":-0.033059976392370016},{"Index":"TUKXG Index","Performance":-0.063117497134267508},{"Index":"SPTR Index","Performance":-0.027540149000833458},{"Index":"SXXR Index","Performance":-0.058984111962436692}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.01144830739451419},{"Index":"XNDX Index","Performance":0.054337030292997968},{"Index":"SPTR Index","Performance":0.045097161572433153},{"Index":"TUKXG Index","Performance":0.042121440290054046},{"Index":"BEUSGA Index","Performance":-0.0037092930219050357}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.0033100005426229817},{"Index":"SPTR Index","Performance":-0.025954396211122832},{"Index":"SPI Index","Performance":-0.0040737491873451548},{"Index":"SXXR Index","Performance":0.0042464796499870339},{"Index":"0000AR Index","Performance":0.019338885440809639}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.031359715086689333},{"Index":"XNDX Index","Performance":0.04748545083515987},{"Index":"SPI Index","Performance":0.034989502197467326},{"Index":"0000AR Index","Performance":0.013981336280860956},{"Index":"TUKXG Index","Performance":0.0088434553258975868}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.041510987375924957},{"Index":"SPI Index","Performance":0.022117293948627825},{"Index":"XNDX Index","Performance":0.040951013499048061},{"Index":"0000AR Index","Performance":0.049127355732005551},{"Index":"TUKXG Index","Performance":0.050887040428018615}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.030473950715243836},{"Index":"XNDX Index","Performance":0.035388403948901637},{"Index":"RU20INTR Index","Performance":0.040064038877503094},{"Index":"0000AR Index","Performance":0.0045263488367131011},{"Index":"SXXR Index","Performance":0.010274380390222326}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.028069563998674107},{"Index":"XNDX Index","Performance":0.032316145572919508},{"Index":"SPI Index","Performance":-0.0026911307202431844},{"Index":"0000AR Index","Performance":0.018055974125558816},{"Index":"RU20INTR Index","Performance":0.032096524862608833}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.0282927447192578},{"Index":"XNDX Index","Performance":-0.016173951127771202},{"Index":"SPI Index","Performance":0.00046312834906858669},{"Index":"RU20INTR Index","Performance":-0.0203994309402169},{"Index":"0000AR Index","Performance":0.01113243838135114}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.038082420479907064},{"Index":"RU20INTR Index","Performance":0.041264539420177382},{"Index":"XNDX Index","Performance":0.043924642081404119},{"Index":"0000AR Index","Performance":0.0395365782821544},{"Index":"BCIT1T Index","Performance":0.008860068814095845}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.010717507119166969},{"Index":"RU20INTR Index","Performance":-0.011473166992286288},{"Index":"XNDX Index","Performance":-0.013812079304706848},{"Index":"XAUUSD Curncy","Performance":-0.033399027329201858},{"Index":"DWGRST Index","Performance":0.0018939719402473187}]},{"PerfomanceResults":[{"Index":"RU20INTR Index","Performance":-0.043717158562349479},{"Index":"TUKXG Index","Performance":0.028882922795806509},{"Index":"SPTR Index","Performance":-0.0030505009104526692},{"Index":"XNDX Index","Performance":-0.013501350135013523},{"Index":"0000AR Index","Performance":0.026834223885112474}]},{"PerfomanceResults":[{"Index":"RU20INTR Index","Performance":0.0010392227753555083},{"Index":"DWGRST Index","Performance":0.026806061818616556},{"Index":"XAUUSD Curncy","Performance":-0.049859571999877783},{"Index":"TUKXG Index","Performance":0.006177175604025642},{"Index":"0000AR Index","Performance":0.0044385177243790874}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.060766596459636224},{"Index":"TUKXG Index","Performance":0.00852696484701454},{"Index":"MXEF Index","Performance":0.030052657609169975},{"Index":"0000AR Index","Performance":0.030997923216062429},{"Index":"RU20INTR Index","Performance":0.069650416023861572}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.024459505509068169},{"Index":"RU20INTR Index","Performance":-0.06843362981907064},{"Index":"SPTR Index","Performance":-0.022348427168235929},{"Index":"TPXDDVD Index","Performance":-0.0069820142853044276},{"Index":"0000AR Index","Performance":0.0019857513973076113}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.016111292814160461},{"Index":"SPTR Index","Performance":0.044421651846056953},{"Index":"XAUUSD Curncy","Performance":-0.015037477304116975},{"Index":"RU20INTR Index","Performance":0.046245903649851483},{"Index":"SPI Index","Performance":0.052551538090844341}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.053365354935966725},{"Index":"SPTR Index","Performance":-0.01346690252160776},{"Index":"RU20INTR Index","Performance":-0.052102203438147532},{"Index":"SPI Index","Performance":-0.018801899343946271},{"Index":"XAUUSD Curncy","Performance":-0.055680169933500778}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.025076681396237088},{"Index":"BCIT1T Index","Performance":0.0042644482183760157},{"Index":"SPI Index","Performance":-0.00033314424097286022},{"Index":"LG30TRUU Index","Performance":0.0018835259883411837},{"Index":"BERPGA Index","Performance":4.8817137511703024E-05}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.030794200712898956},{"Index":"SPTR Index","Performance":0.026267961106134052},{"Index":"XAUUSD Curncy","Performance":0.056753818366738651},{"Index":"XNDX Index","Performance":0.04015394625114399},{"Index":"TUKXG Index","Performance":0.025549398556372616}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.027106569072424258},{"Index":"SPTR Index","Performance":-0.0249420240968935},{"Index":"TUKXG Index","Performance":-0.047782381708678434},{"Index":"BCIT1T Index","Performance":0.0095138145289173082},{"Index":"XAUUSD Curncy","Performance":0.010491885771795273}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.041663247386302116},{"Index":"SPI Index","Performance":-0.031591508604446594},{"Index":"BCIT1T Index","Performance":0.018303444119342149},{"Index":"BERPGA Index","Performance":0.016851058689801857},{"Index":"LG30TRUU Index","Performance":0.00943840915753924}]},{"PerfomanceResults":[{"Index":"0000AR Index","Performance":-0.0094596699858490174},{"Index":"XAUUSD Curncy","Performance":-0.077109786372764444},{"Index":"SXXR Index","Performance":0.061037087814004076},{"Index":"SPI Index","Performance":0.077497274772877933},{"Index":"BCIT1T Index","Performance":-0.0249582829205105}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.025855289897329881},{"Index":"0000AR Index","Performance":0.025962916338172048},{"Index":"SPTR Index","Performance":-0.00024460943590709494},{"Index":"TUKXG Index","Performance":0.016401032310397134},{"Index":"XNDX Index","Performance":-0.01504152377804413}]},{"PerfomanceResults":[{"Index":"0000AR Index","Performance":-0.0065385694945770956},{"Index":"SPI Index","Performance":-0.026735322676420425},{"Index":"XNDX Index","Performance":0.0069494757705215182},{"Index":"XAUUSD Curncy","Performance":-0.015017836799520956},{"Index":"SXXR Index","Performance":-0.033149460144832887}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.0025090964220739753},{"Index":"0000AR Index","Performance":-0.025914110418935321},{"Index":"SPTR Index","Performance":-0.015267339945813974},{"Index":"BCOMTR Index","Performance":-0.033564018296460496},{"Index":"SXXR Index","Performance":-0.032228397251454988}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.01819313946286194},{"Index":"XNDX Index","Performance":-0.016388158313469181},{"Index":"0000AR Index","Performance":-0.023960216899285292},{"Index":"SPTR Index","Performance":-0.014437613253274084},{"Index":"TUKXG Index","Performance":-0.037117462590887884}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.048569542229345508},{"Index":"SPTR Index","Performance":0.014144172835232949},{"Index":"0000AR Index","Performance":0.0032095596278756133},{"Index":"XNDX Index","Performance":0.039839124073575372},{"Index":"MXEF Index","Performance":-0.037737285002935383}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.073946229410257747},{"Index":"TUKXG Index","Performance":-0.081624765658799281},{"Index":"0000AR Index","Performance":-0.055408963328109739},{"Index":"SPTR Index","Performance":-0.062072157902632874},{"Index":"SXXR Index","Performance":-0.10029768121997062}]},{"PerfomanceResults":[{"Index":"BERPGA Index","Performance":0.0097560931564686371},{"Index":"BEUSGA Index","Performance":0.0072317663924377218},{"Index":"MXEF Index","Performance":0.0480043483094712},{"Index":"BCIT1T Index","Performance":0.00786070732033295},{"Index":"LG30TRUU Index","Performance":-0.0087036555446265984}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":-0.055528174798751495},{"Index":"SPTR Index","Performance":0.033186288029900535},{"Index":"BERPGA Index","Performance":-0.0032673669211432665},{"Index":"BCIT1T Index","Performance":-0.013525991249711655},{"Index":"BEUSGA Index","Performance":-0.013569385658691591}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.01451513391230308},{"Index":"SPI Index","Performance":-0.019744982696672464},{"Index":"BEUSGA Index","Performance":0.00795495870791929},{"Index":"BCIT1T Index","Performance":0.0051810214426584178},{"Index":"MXEF Index","Performance":-0.045788886355727754}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.061839833401775346},{"Index":"XAUUSD Curncy","Performance":0.030394370928908954},{"Index":"BCIT1T Index","Performance":0.0035886829454194746},{"Index":"SPI Index","Performance":-0.040710971116798333},{"Index":"LG30TRUU Index","Performance":-0.014304923400747405}]},{"PerfomanceResults":[{"Index":"BCIT1T Index","Performance":0.013000565053701729},{"Index":"BERPGA Index","Performance":0.012609354142451012},{"Index":"LG30TRUU Index","Performance":-0.021474792358735728},{"Index":"BEUSGA Index","Performance":0.027987478204426486},{"Index":"IBOXIG Index","Performance":-0.0017870829787294262}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.069353513023268976},{"Index":"BERPGA Index","Performance":0.00289770559153113},{"Index":"BCIT1T Index","Performance":0.0028176779311106515},{"Index":"IBOXIG Index","Performance":0.014059522683691927},{"Index":"BEUSGA Index","Performance":-0.014351757805676768}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":-0.049264954020079355},{"Index":"XAUUSD Curncy","Performance":0.00674696866621316},{"Index":"RU20INTR Index","Performance":0.0078539663910990321},{"Index":"MXEF Index","Performance":0.028842192006592438},{"Index":"SXXR Index","Performance":-0.023320402710902521}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.026925598164536213},{"Index":"XAUUSD Curncy","Performance":0.017186591591471956},{"Index":"LG30TRUU Index","Performance":0.022241515383439214},{"Index":"MXEF Index","Performance":-0.027573175428461383},{"Index":"SPTR Index","Performance":0.0030195266504029483}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.00835654596100266},{"Index":"TPXDDVD Index","Performance":-0.004883045746707948},{"Index":"DWGRST Index","Performance":-0.0019749072971868564},{"Index":"RU20INTR Index","Performance":0.051030084292757794},{"Index":"JPEIGLBL Index","Performance":0.010948803947113284}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.051150540053549243},{"Index":"TPXDDVD Index","Performance":0.0023206984197148284},{"Index":"RU20INTR Index","Performance":0.049551018138715541},{"Index":"XNDX Index","Performance":0.035699071312942143},{"Index":"JPEIGLBL Index","Performance":0.041589902933978573}]},{"PerfomanceResults":[{"Index":"SXXR Index","Performance":0.034590102002266754},{"Index":"TPXDDVD Index","Performance":0.011321886072499288},{"Index":"RU20INTR Index","Performance":0.024099996909327182},{"Index":"XNDX Index","Performance":0.053160549927243173},{"Index":"XAUUSD Curncy","Performance":-0.0028749329678842139}]},{"PerfomanceResults":[{"Index":"SXXR Index","Performance":-0.010386950479116197},{"Index":"BCOMTR Index","Performance":0.00060580488368322527},{"Index":"XNDX Index","Performance":-0.00754394267423375},{"Index":"SPTR Index","Performance":-0.0097006207315044612},{"Index":"RU20INTR Index","Performance":0.0059373775753925884}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.021183712121212173},{"Index":"SXXR Index","Performance":0.00037341299477211543},{"Index":"BCOMTR Index","Performance":0.031929399694598182},{"Index":"SPTR Index","Performance":0.0071766201542404762},{"Index":"JPEIGLBL Index","Performance":0.0032350167644594752}]},{"PerfomanceResults":[{"Index":"SXXR Index","Performance":0.0070786330707710565},{"Index":"BCOMTR Index","Performance":-0.0449943653760968},{"Index":"SPTR Index","Performance":0.016575314301604305},{"Index":"XNDX Index","Performance":-0.0096531958647771976},{"Index":"JPEIGLBL Index","Performance":-0.032172665623369845}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.051208531210657826},{"Index":"SPI Index","Performance":0.031089670670498615},{"Index":"SPTR Index","Performance":0.051905105322402889},{"Index":"SXXR Index","Performance":0.05822837700710326},{"Index":"RU20INTR Index","Performance":0.059085303924605093}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.030045737229292158},{"Index":"XNDX Index","Performance":0.024909420289854989},{"Index":"SXXR Index","Performance":0.019670923031136267},{"Index":"RU20INTR Index","Performance":0.0049913739194211715},{"Index":"0000AR Index","Performance":0.016897273412561198}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.0062736143188322213},{"Index":"XNDX Index","Performance":0.0402691892444067},{"Index":"SXXR Index","Performance":0.012253889577309884},{"Index":"SPTR Index","Performance":0.02522165526350939},{"Index":"0000AR Index","Performance":0.018543328876763132}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.037634979373938338},{"Index":"SPTR Index","Performance":0.022429203778894458},{"Index":"XNDX Index","Performance":0.028211346304106044},{"Index":"RU20INTR Index","Performance":-0.0085201666878322868},{"Index":"0000AR Index","Performance":-0.014141126731317621}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.020797400264820243},{"Index":"SPI Index","Performance":0.010117861324313804},{"Index":"SXXR Index","Performance":0.011207606299630912},{"Index":"TUKXG Index","Performance":-0.0093937211510131124},{"Index":"0000AR Index","Performance":0.00072099974946637779}]},{"PerfomanceResults":[{"Index":"0000AR Index","Performance":-0.0068620190363041234},{"Index":"TUKXG Index","Performance":0.029988384024481007},{"Index":"SPTR Index","Performance":0.02383090976090263},{"Index":"BCOMTR Index","Performance":-0.028994312320933302},{"Index":"TPXDDVD Index","Performance":0.080921430027544261}]},{"PerfomanceResults":[{"Index":"TUKXG Index","Performance":-0.0057622010546612978},{"Index":"SPTR Index","Performance":0.033758227469518065},{"Index":"BCOMTR Index","Performance":-0.035687934129766563},{"Index":"0000AR Index","Performance":-0.0049511809157102293},{"Index":"SPI Index","Performance":-0.012053786569813152}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.01194786540899373},{"Index":"BCOMTR Index","Performance":0.018379228839049189},{"Index":"XAUUSD Curncy","Performance":-0.015649302481395622},{"Index":"TUKXG Index","Performance":-0.0072438250612227861},{"Index":"TPXDDVD Index","Performance":0.019572357688208308}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.0059017143046680154},{"Index":"SPTR Index","Performance":0.0050491421085832044},{"Index":"SPI Index","Performance":0.0056275236354037528},{"Index":"TUKXG Index","Performance":0.012717365199498953},{"Index":"XNDX Index","Performance":0.0080741635805352541}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.031262794816373507},{"Index":"SPTR Index","Performance":0.030629799954599024},{"Index":"TPXDDVD Index","Performance":0.015220098776036028},{"Index":"TUKXG Index","Performance":-0.022028978040254943},{"Index":"JPEIGLBL Index","Performance":0.015459313953634535}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":0.00559346741246225},{"Index":"SPTR Index","Performance":0.023332816455416072},{"Index":"TPXDDVD Index","Performance":0.059599651429393274},{"Index":"JPEIGLBL Index","Performance":-0.00057009009902220242},{"Index":"SPI Index","Performance":0.024207771602161143}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":-0.012730953641425069},{"Index":"BCOMTR Index","Performance":0.0050791581793330209},{"Index":"SPTR Index","Performance":0.011501066298726714},{"Index":"XNDX Index","Performance":0.038502441984799018},{"Index":"TUKXG Index","Performance":-0.017005064568929806}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.044810194497127087},{"Index":"SPI Index","Performance":0.026442056655040069},{"Index":"BCOMTR Index","Performance":-0.02536803357445705},{"Index":"XNDX Index","Performance":0.032049222689368939},{"Index":"RU20INTR Index","Performance":0.038824408560676149}]},{"PerfomanceResults":[{"Index":"SPI Index","Performance":0.0092592592592593},{"Index":"SPTR Index","Performance":0.046391388576368042},{"Index":"XNDX Index","Performance":0.051250418256949759},{"Index":"RU20INTR Index","Performance":0.0335562909375009},{"Index":"BCOMTR Index","Performance":0.050988361245252856}]},{"PerfomanceResults":[{"Index":"BCOMTR Index","Performance":-0.0043482268474031027},{"Index":"SPTR Index","Performance":-0.021737716862927248},{"Index":"SPI Index","Performance":-0.047696221718999121},{"Index":"XNDX Index","Performance":-0.0044941901531440065},{"Index":"DWGRST Index","Performance":-0.033999599446965845}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.0038612048337145488},{"Index":"BCOMTR Index","Performance":-0.015352334808844126},{"Index":"XNDX Index","Performance":0.01762128276700925},{"Index":"TPXDDVD Index","Performance":-0.03281790531912443},{"Index":"DWGRST Index","Performance":0.0035293576108841318}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.0057225080672826945},{"Index":"BCOMTR Index","Performance":0.030741793288962649},{"Index":"XNDX Index","Performance":-0.011021676434062488},{"Index":"DWGRST Index","Performance":0.01430947519574155},{"Index":"RU20INTR Index","Performance":-0.0024311859462430307}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.017272834948576676},{"Index":"SPTR Index","Performance":0.025487676445725249},{"Index":"TPXDDVD Index","Performance":0.035788393835536558},{"Index":"XNDX Index","Performance":0.037409563678110658},{"Index":"BCIT1T Index","Performance":-0.0049815525563077223}]},{"PerfomanceResults":[{"Index":"SXXR Index","Performance":-0.029058956502716282},{"Index":"XNDX Index","Performance":0.056752708070565649},{"Index":"0000AR Index","Performance":0.019625933409922691},{"Index":"SPTR Index","Performance":0.017370733520026604},{"Index":"SPI Index","Performance":-0.0355738978952822}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.018774397422393063},{"Index":"SPTR Index","Performance":0.020160771704180069},{"Index":"RU20INTR Index","Performance":0.005690915517326145},{"Index":"SXXR Index","Performance":0.013195943983533631},{"Index":"XAUUSD Curncy","Performance":-0.029719300183871478}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":0.021830687323653342},{"Index":"XNDX Index","Performance":0.0049393579072534166},{"Index":"RU20INTR Index","Performance":0.012538050345537233},{"Index":"XAUUSD Curncy","Performance":-0.023282972641894606},{"Index":"SXXR Index","Performance":0.00063679952052742017}]},{"PerfomanceResults":[{"Index":"XNDX Index","Performance":0.020119528956891841},{"Index":"SPTR Index","Performance":0.025740325317777923},{"Index":"XAUUSD Curncy","Performance":0.0095166415788594527},{"Index":"RU20INTR Index","Performance":-0.00026188511605917952},{"Index":"TUKXG Index","Performance":-0.025417310384782565}]},{"PerfomanceResults":[{"Index":"SPTR Index","Performance":-0.0581481884925501},{"Index":"SPI Index","Performance":-0.023680834487938562},{"Index":"XNDX Index","Performance":-0.051428591337633445},{"Index":"XAUUSD Curncy","Performance":0.018382720575980782},{"Index":"TUKXG Index","Performance":-0.057488066144393946}]},{"PerfomanceResults":[{"Index":"DWGRST Index","Performance":0.0298355181189065},{"Index":"BEUSGA Index","Performance":0.00703604744445685},{"Index":"SPTR Index","Performance":-0.031232474696756274},{"Index":"BERPGA Index","Performance":0.0024875578534759857},{"Index":"JPEIGLBL Index","Performance":-0.013401012578944549}]},{"PerfomanceResults":[{"Index":"XAUUSD Curncy","Performance":0.023033598124755805},{"Index":"BERPGA Index","Performance":0.01599954847686913},{"Index":"BEUSGA Index","Performance":0.018053036192450689},{"Index":"BCIT1T Index","Performance":0.0055400830671408219},{"Index":"TPXDDVD Index","Performance":-0.086001810912609056}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.047592121809776344},{"Index":"BERPGA Index","Performance":0.0041322578867295512},{"Index":"BCIT1T Index","Performance":0.0040533339476289676},{"Index":"MXEF Index","Performance":0.060650266571512512},{"Index":"LG30TRUU Index","Performance":0.035062302958713376}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.043073487757832707},{"Index":"XAUUSD Curncy","Performance":0.03189316452538371},{"Index":"MXEF Index","Performance":0.03897939815730167},{"Index":"LG30TRUU Index","Performance":0.017798710689473696},{"Index":"BERPGA Index","Performance":0.0034673491641445953}]},{"PerfomanceResults":[{"Index":"TPXDDVD Index","Performance":0.0034236280436890087},{"Index":"XAUUSD Curncy","Performance":-0.012667368737776519},{"Index":"MXEF Index","Performance":0.010418929769045349},{"Index":"BCOMTR Index","Performance":0.0057171197139225249},{"Index":"RU20INTR Index","Performance":-0.016010055940389067}]}]
+[
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.016518995343500986
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.099113265758596247
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.036235708003518052
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.016467963444763645
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.033538670932435011
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.01279707495429605
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0861942201285697
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.020249107341340444
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.053795350983827595
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.01286937213292827
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.04072234821065146
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.01741970604246057
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.0025962475105845151
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.0927266727209275
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.041510563891109853
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.021345429383506587
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.016688299647691474
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.028318104927849364
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.033245844926956258
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0076359485613715083
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.0031631661102951014
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.018075840895277473
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.038712910342513895
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.026925893057106132
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.1572668676282114
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.0038926688215371597
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.026205641492265674
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.034517476174670492
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.034767622827843181
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.017428755063397583
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.00051067926026360233
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.022159194190393139
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0082157357042846879
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.00932314003356327
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.021935948199185207
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.015884542071344265
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.019892716420814471
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.00355040572005616
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.012855773723251085
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.016771573217797542
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.031441116372275424
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.01115459002383834
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0057555176668957486
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.10530037656165425
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.026394608760763827
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.003758986145902643
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.025868066567255932
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0077735683693858082
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.10461872937620109
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.0072217400194456438
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.017264209689782817
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.089951324017661483
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.048777857149043147
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.013701166450657221
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.051613619034456271
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.10196957196477818
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.072465413619164587
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.028060295276587488
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.025936073059360853
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0080293589736160076
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.028140230469395067
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0075089168387461047
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.0054044331739424578
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.017556323257763129
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.041687756238822926
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.011133433398569759
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0036476381542951408
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0020907856850486128
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0061950052654777821
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.016653790774016519
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.014096719849370665
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.025731805819660947
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0053144421969255617
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0046775565507317651
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.0631007514047609
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.081105782380243463
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.025002622905745397
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.031759472224729857
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.053227690564704222
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.023191891607132531
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.014538285262510664
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.020141494729052023
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.045915416911840756
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0267840898345435
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.12686772788206113
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.019157524234971079
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.044678484471348812
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.002816351840506548
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.01083112440889944
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0061157888425398266
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0077794187984856489
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.030917038893207516
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.10449192400297402
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.036751934554687726
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.015888711459212113
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.074157293657896917
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.034214045541590465
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.019683069224353589
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.077619996250789747
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.012219115434570327
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.019736810503573454
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.11741304805040864
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.031532299301175959
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.032057432279982923
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0079679256692839484
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.032198070932039524
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.028793645540294621
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.11402129419568907
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0095022796723640557
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.043788665786516523
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0997183969677794
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.028002159952118189
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.03770518446286375
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0784014252967512
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.10042166283016674
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.065983250598570131
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.065321226172446289
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.013239036132182802
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0066006600660064585
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.018122356139696816
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.039407159447713447
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.011530689201255551
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.019605566825296572
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.038514748306758051
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.013003484897368134
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.031572371155969892
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.003866937090599043
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0085272503574633784
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.038352746777103874
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.012439176432688104
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0331904448773811
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.00240598264503733
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.00123701462761594
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.087401225827277829
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.048301718349132439
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0058064517203166854
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.013090592444124249
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.010109127122257089
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.0054365269591504228
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.025945586719401614
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.012873697880502633
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0034434327763872563
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0035487516872441116
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.02382161657889037
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.02072198781059531
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.013379484734088232
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.023061062927030251
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0039527508388104149
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.018518873125976
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.012745485213992103
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.01938827448984326
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.14323617965087976
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.131064080094202
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.11600469528965995
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.014027405925970737
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.02854330566850527
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.048459593594905925
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.01771466790262255
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.027203426508370709
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0072005896545859205
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0067067528369544327
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.010965987607542305
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.038533692694214583
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0039654373740684035
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0026161522787784275
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.012074113101510409
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.029547736866604168
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.04684242142448003
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.017643267260205375
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.020875575438858318
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.040717052517791119
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.10979570812109563
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.07804007105214561
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.010972834993149494
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.010974682512744138
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.0057986066034878547
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.049196918222311314
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.049230770465676033
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.0067913323907734524
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.044734127979596749
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.033112529579032435
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.02120986397429947
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.037858649593016436
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0073780040557449578
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0319654427645788
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.019226676386355113
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.048757803408716605
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.01454238909417982
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.044205484459137967
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0406021267780694
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0349228883409769
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0361086732330167
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.030134226672342335
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.010895027494384202
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.028605119717825311
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.019752571668414376
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.019725881995854455
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.051828235044632076
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.068032677112628726
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.029160704722752562
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.030768020871340118
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.040503354732075669
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0050453580055915825
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0020424311646590754
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.039741804834831029
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.044614312389725796
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.025306813520271421
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.025868116450368239
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.04163884981741095
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.092133707145526822
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.023369559279955432
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.025828355911093559
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.044393607201973162
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.030080919207585821
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.014631946386718164
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.10370064230639642
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.013779785986008153
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.020242392147119759
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.066117552262858759
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0057807697936484992
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.024925978601758603
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.053684841222288782
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.01136228682230267
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.00043752768868288161
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0706731106160392
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.025529349756702846
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.018776809645714043
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.032145187118201912
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.061374596007561455
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.026872842600313973
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.065529728089099848
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.033670811571663073
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0055801395100902873
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.039185625804869062
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.024717054767789737
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0045575389289784773
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.02260587170799544
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.017351897677469474
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.00719506703750139
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.045529728674279957
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.044804455132261722
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.033689862728965458
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.015973789923895865
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.023774005467124493
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.012940046510047987
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0017075253079643637
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.073358396169683759
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.036202268091922951
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.023069582175013537
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.016309367999211455
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.040260218485332011
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.010588118268171853
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.016804024478960455
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.023210975766178255
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.025025227043390497
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.058246705796384024
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0439364062819072
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.06099982206937371
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.015806678528571982
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.021637009667713869
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.016955375802768735
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.011281963994469235
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.016441113969354659
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.058580589018184082
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.006026381221290289
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0339174674957603
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.033829043738354159
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.032760977276610204
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0088117737063517776
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.028156712193718736
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.021278469773079678
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.019890019890019817
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.043991349026368365
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0083610211169680149
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.042986932869721217
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.05243914587568943
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.024549270715519267
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.0024589942443322688
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.011790422148910018
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0073422960436090312
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.031283871235128768
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.028961419147200074
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0053559040559951754
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.030260821764300005
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.0099337434830302218
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.018678617294741962
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.025640329932711037
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.020572864772777089
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.023259873569612344
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.040150995195607386
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0530157970320726
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.07989989239313422
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.032073752891738749
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.057141327808801767
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.10387614789909572
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0864987555805461
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.03706230104593
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.052380905045183557
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0010135479361697008
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.056194393031902434
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0470297057019432
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0439488957562163
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.031022326674500666
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.037339205559095645
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.032888500882246374
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.040987685078059055
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.038564351133920649
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.087892857002582758
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0661411925976696
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.031126581979738832
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.036180082764701638
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.010191223693992613
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.030306108909573526
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.041743024495462633
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.018270270270270172
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.10260689095667552
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.065462176202735645
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.136233275631511
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.010511128794166491
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.078720744082964034
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.028141969847276682
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0049679917083425007
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.024354253163887618
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0027269623892026695
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.012535491865859782
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.035210287254160311
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.023946305600804019
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.037095924831760607
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.032506652469323383
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.022514929222885227
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0215634943573082
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0384741456312232
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.035670462613438314
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.022144679758530739
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.016325909967149332
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.012515366809315642
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.02145846318226341
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.012446855566186299
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.037813118316937677
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0056989404522516107
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.019386606738016621
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.11174721821116118
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.043711755137813779
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 6.2887989694893065E-05
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.012686986364155217
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.056163253088754139
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.014372866059278122
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.04831869316160109
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.045668400296428269
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.084453311227036032
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.012265463785479214
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.015799187892211242
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.037567812622822272
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.001686951185239316
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.0058178084828780507
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.032413965060460015
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.017609742643158732
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.033936835268328247
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.03425060701935112
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.006116438234145205
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.028180025542529297
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.042621937079693972
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.039767236670728234
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.023115398356555961
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.02953844801651595
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.046229874063446474
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.020616051357864595
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.0028734138856119085
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.023457698511360148
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.014246499183432348
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.016591251885369473
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.039508484143402356
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.040518190199157367
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.014948453608247592
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.03558175070945202
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.049222797927461093
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.011588287438329514
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.013760375385924117
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.0062415300337843593
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.021096138722884406
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.01363073110285018
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.032778932384804338
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.027360303407884423
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0072707904695805681
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.018090382063281396
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.015970667459852761
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.019828259172521623
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.019855820210257891
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0015149643224500187
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.0081991161754502162
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.022443700547778445
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.010696682077761421
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.051078866245042875
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.031108927936791209
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0469206990299037
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.042962613886270873
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0062628371325634813
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.0661713776829902
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0526619876879757
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.012816882198166457
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.011863275747015622
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0512553086138825
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0057275976397964667
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.035426359442189526
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.03055540820115632
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.035754470257308046
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.020251609276397797
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0844447735950129
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.006803621853020303
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.019865130989401569
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0054119475710570075
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.029865775975402409
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.0058461800748271786
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.00434010322407663
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.012919145647592778
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0169433416262047
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.12289791704325204
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.072280501706325384
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.044357513440852259
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.057128463476070479
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.013710150299954371
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.05947740909990884
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.017507598806570268
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0055494992761675466
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.026083153747962218
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.030225241102077804
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.014904328921270027
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.015870245423184048
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.013109234911976575
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.031577640192304246
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.016027577322332176
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.037839404066735915
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0861771882229827
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.057683952993067944
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.012338442370465108
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -7.9994864437771263E-05
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0520759044466641
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.051669993378619883
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.028549642828771926
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.00017008198404933061
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.05413134931148289
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.060168903008585017
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0029277617003184986
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0034387256141654721
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.02303326723863508
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.05412809397022833
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0127056728862871
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.01681767337436102
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.019318330445018628
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0228459637156202
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0096747804056305231
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.056452994648724664
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0015572474295370009
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.056913712418703688
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.018802580488594067
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.043587435707741928
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.079842259014109684
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.027181697521727277
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0060116193329921019
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.014796478465883389
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0065328215260633815
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.025438539052717424
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.003093913997023412
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.039548725406782115
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.01324187694080825
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.05350532385533302
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.018478059618589171
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.026306071994438351
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.00928183046984521
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.018898934568015169
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.088561064430232483
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.085255525990206915
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.06902397968239038
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.02180943069865382
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0054878005876304314
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.06007616474765709
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.031045132966537992
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.014197000217469613
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.014718690660802558
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.015179010634206458
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.024501938927326328
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.044209572282955634
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0796696419979559
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.010331797844914226
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0058914931787499292
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.19678282241302181
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0052841202676678911
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.27523456885691311
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.15600341418334807
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.16773238983596017
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.001849431437850102
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.049915777607510536
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.033841956463566469
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0098662407089729065
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.085394826142223823
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.058453601954020717
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.084490198400208216
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.019000210018901731
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.015206085549156922
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.092771381814999554
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0079349439138647337
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.00870497528417924
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.13936739316895941
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.01710234777005426
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.042579998440646527
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.0042465797671129568
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.006572730292998985
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.012671665328537696
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.026000780987611827
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.020297458281024472
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.091590929488554185
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.063894983697471264
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.0055096094493789494
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.07449840037565425
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0035658190771321596
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.10540224993907454
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0019306183616556449
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.034110294596138457
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.09146813766121098
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.20421162961947537
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.052047909570870576
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.040286548493604357
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.1054455715014766
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.01237598078854707
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.039881263966446312
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.012079726192872897
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.057753748922736436
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.039989881118610571
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.078155237320102433
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.075997020802101245
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.058549219760926419
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.009884623169826634
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.11107428448266599
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.061691513428853151
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.093667156751455871
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.015892583461051712
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.10623641973576969
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0916411326644857
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.11500764645201622
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.080204744344648748
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.052813471990951655
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0740254960874398
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.011171348776080059
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.011883144958053427
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.029291900400681747
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.063987202559488088
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.046792156094472626
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.043616432286181617
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.00472582509310393
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.024356139438085345
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0027964853500033193
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0067468652536439855
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.038926806307366446
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.06744283812918983
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.034023602421334509
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0075921374348724147
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.0017436357295870231
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0072676887319536032
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.024387109211836844
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.024094370846229785
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.046443204168484575
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.040463419892338148
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.011625633277042136
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.013563118272879926
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.036693947006070093
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0399474950776636
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0010481228051675284
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0024296162820330869
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.067425089844586839
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0054409555229575357
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.062732885584808384
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.07927360604528455
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.10616941128143975
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.07243554082914283
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.044850971487888192
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.069348640174033971
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.076010307256983323
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.056029263512209049
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.034656337299072693
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.058113451302753916
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.043272798060320916
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.046816961630345766
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0746344765739706
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.067641802572416587
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.0662797870639037
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.012330384449880771
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0031995298649993842
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.012507289955064782
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0020755569473790425
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.0055212703015510289
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.12256093176854121
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.041890198849947047
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.097353882181164475
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.042159473652177204
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.086554601721372526
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.021787276612729611
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.058424077336880709
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.01691984204573882
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.019509238949017904
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.053594467667853696
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.037378996176685941
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.02139240645679763
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.023619653422511044
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.019856815054727583
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.018450489924053182
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0036738879925701795
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.074102560077853763
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.036671157012423294
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.015159495294144509
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.014384412278882319
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0062982096518373609
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0030405405405404817
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.0072064216654270652
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0064000808390014541
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.018407373225241441
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.020163342998162914
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.009009009009008917
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.060851545525473894
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.077534914155001022
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0960292197231929
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.029064806725043857
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.031464399178223523
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.021277599346173348
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.014871034508773029
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.039351037069989658
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.033010552577953156
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.038709052147217982
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.018862269462227577
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.051764976058572776
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.031418274326902695
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.090631743380700458
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.06289672340455954
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.06938641567623316
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.058908503083592967
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.038409746137036738
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.040069938700836083
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.00963718820861681
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.019115896545357502
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.013032899642427265
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.021340161872316354
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.046229394430570725
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.0344715123204109
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.00717919414077528
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.01664970457703685
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.048449824715162126
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.022975702809621024
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.024864753651136495
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.019234064992419864
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.018890384018217632
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.021324194382883244
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.0083754711505112933
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0070136150942012865
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0045381473405941009
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.015083592637519017
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.035834634861338976
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.12619625350465935
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.023226141426155866
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.18492752899152598
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.16408771065098537
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.009433717765971128
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.025984771276442831
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.054539166742840983
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.00788250037386673
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.008082277303515184
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.010204585654586817
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.082473386859287512
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.070012543919782955
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.021327342843169284
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.01800644360612047
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.030465789133996557
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.011091318444238718
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.013922275748237789
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.021251316811813803
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.022319359457748877
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.018347990632861855
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.063809197718739386
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.021624454423155193
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.1077876797786399
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.0026029132956389978
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.035442620373219658
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.069504827072536024
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.081273438647980978
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.028040497990031055
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.045034504017313237
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.063483281212412868
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.017302800393107942
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.043724840378535967
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.033651927430482953
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.049154460238623132
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.066686683681128844
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.030453249561681162
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.056049184201917734
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.026605059297909572
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.015339885806716302
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.0093821409738090722
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.020566524647105178
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.040420776392389057
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.03104553571591917
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.028357926374705689
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.009407769836289992
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.051359112257562178
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0015550238084347523
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.061567642831684366
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.02114225036380768
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.050015664861477904
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0072345835982199347
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 6.8763495137513786E-05
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.015632332142348826
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0046766509778652932
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.0036024133489227506
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.019702961484175274
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.013665241908497494
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.029066950947607584
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.045943686369284586
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.013755769314923505
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.025881732306019645
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.031902743095165942
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.033821208651793278
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.0024264086909461247
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.018696052990636591
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.010839702904778203
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.058095999326911008
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.0034747438572144684
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.00731938740136262
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.02593526691887349
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.010301770272126753
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.008126918516779158
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.0088778550148957969
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.001937086282026157
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.00075120505811410165
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.0028962093151547741
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.0054246368318556781
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.002116202602958861
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0060479117919879366
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.006523913061870168
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.024052723864828929
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.00700411881207752
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.011184866440604901
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.010129596377547068
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0021961244230934707
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.0050129959931364265
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.019744780284567609
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.017577356113691822
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.00715826585474344
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.013959451991741534
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.0048296999163613963
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.00024767523853430617
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.02242204397773917
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.01819424619529153
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.014595844751520759
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.044452265836405269
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.051133791626744696
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -8.1397533028493285E-05
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.013758017261857658
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.035699796161134723
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.002799204781323672
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.0089685581037646234
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0761564945226918
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0037066483216936508
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.04894651439779385
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.056720683140223827
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.024034433625823581
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.057385821026803674
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.012585295829963927
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.05202220820950676
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.030010043517977314
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.024474339272529289
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.061461398096525954
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.061466734706355886
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.058984111962436692
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.038428877057672395
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.029326870686945616
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.027474695950779893
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.0037092930219050357
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0012280779158555521
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0060380291379829032
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.023305936253887327
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.00090519286172741076
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.0096551598592660159
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.0042464796499870339
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.006435122722093789
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.022171731793127591
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.011772626278939713
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.045179053180087969
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.029371041299716794
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.018143127887761068
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.022980108119146525
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.022428383504770055
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.023653474002654828
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.026297784249399214
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.031459981221350963
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.013153620451763604
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.036379123950051273
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.010274380390222326
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.011861099589487667
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.010324946195110707
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.014499823745030893
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.00067246368443130144
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.01361532484205541
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.019402729975130928
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.011299341442515765
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.020667335263327535
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0010308766432336469
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.014149056729551357
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.0096850704967716972
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.020624861799502847
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.026367757439113904
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.022975333800651532
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.023976300652013949
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.029423664206918554
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.00829460191222231
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.016176165444765855
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.02030445645332124
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.023413829819193932
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.0026375404530745161
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.035395294748321149
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.022165875737023333
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0133335205234415
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.02367681038790459
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.053580722435233596
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.025701084515176831
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.017249751517218748
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.045108260018213109
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.018882143185468214
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.049859571999877783
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.060766596459636224
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.030431264160483806
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.033363743097466037
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.070043583727679382
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.007372544669406178
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.055519315357599242
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.024459505509068169
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0087952306832568272
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.047753371868978878
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.019697618442159559
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.00095945393984520067
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.06254265645110868
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.015037477304116975
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.064398561106771668
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.053590221785862591
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.019225383379312788
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.020532360526104632
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.020749940810993239
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.055680169933500778
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.062142246205827534
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.029162278683996679
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.0018835351658086363
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.00079577681044740167
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0061240351555584827
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.032228940611281232
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.035970856662198569
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.056753818366738651
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.049989473661357309
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.0022026527345743174
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.013580055799771618
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0053164209027727338
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.010491885771795273
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0043742988167868591
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.018280703297544054
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.016575505578347638
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.041663247386302116
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.00943837106422074
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.065975467885616368
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.072966234271036434
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.011659049581459469
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.077109786372764444
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.061760948896822043
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.0087860853461649846
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.091490678713206819
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.051266677460208854
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.00058460269620708161
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.014225609225422375
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.00776863446069509
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.035991809528705287
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.019364420103839208
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.033089393807865353
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.015017836799520956
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.023988421471513255
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.018093920186150636
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.035772335364297692
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.042934822321045507
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.01631931161299105
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.053790322242619371
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.03459647594721782
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0060595102995566474
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.020182316491175412
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0031952694900003742
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0051844440982611317
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.037317205830789568
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.027422652310208573
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.018215926172689523
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.035089267542585789
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.044013405484343071
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.033873827488993924
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.011286455495016945
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.075406432127671064
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.083484193291760156
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.10762655134078192
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.10029768121997062
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0011753915889363142
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0097560931564686371
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.00786070732033295
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0050895663889029
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.0068455273638439174
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0072317663924377218
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0032673669211432665
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.013525991249711655
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.055528174798751495
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.049964263320795066
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.057799489658877379
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.041205534495920904
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.00795495870791929
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.071632286878123952
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.013833536966973869
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.02992291818724635
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.056756120076714711
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.030394370928908954
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0035886829454194746
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.014304932646646229
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.056956352184671766
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.021474830070636775
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.027987478204426486
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.013000565053701729
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.012609354142451012
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.029345260916559868
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.038934851516980729
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.00289770559153113
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0028176779311106515
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.017230164819820759
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.014351757805676768
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0077627163358021667
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.00674696866621316
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.014927382167088665
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.0055864271299501667
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.024393083383404068
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.00035661198897640745
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0040637919119590471
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.017186591591471956
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.0090804097790064819
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.00966144873664132
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.024016005594792444
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.061094923030221349
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.00835654596100266
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.020624575910116461
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.0075823463957067627
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.067718507806457273
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.069345716674261482
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.040471473623782783
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.059604703838158191
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.053625527303507559
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.019602694160355316
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.048535237606597281
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.028864278540478017
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0028749329678842139
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.0029394812368034318
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.00544981956567292
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.00015053002420717387
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.013549153113790346
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.015693886331282436
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0061004363870447165
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.040163313901885989
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.051108501977624732
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.021880839918186012
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.025895677096978043
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.037819030614813842
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.029165544378139008
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.033424627398428886
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0067612010167248382
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.0308499607541729
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.018918451969592187
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.063576035991345092
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0642816246369935
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": -0.0086482101045977089
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.057882345265860335
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.024550934589081974
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.025486694028756141
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.0055576190437898187
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.0096681654748318469
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.010803623489047398
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.022205453059878755
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.044292771083003224
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.029188633253415919
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.01946409609530253
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.026158810779068009
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.012253889577309884
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.022213250062566248
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.016464152682379884
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.014304654484219359
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.051503645743694149
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": -0.021024544253831379
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.012224077779025233
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.0016442845426817287
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.01381929701874185
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.026325556616433543
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.012673684605050806
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.065579902913760368
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.015177454503236709
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.016721736504742513
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.047616546290216721
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.065990015569042715
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.018398476740155711
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.020626683027992532
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.032830921916685796
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.036552926530744156
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.0093499441794376859
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.010907236861200875
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0055628314416844571
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": 0.018479613799358585
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.028526934239399671
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.013015633735128596
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.017794882794159528
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.014661640584327063
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.018808218023648071
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0046612529682508175
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.0069750313978188538
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0047800741312394868
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.0018903870862931882
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": -0.0017945825929813752
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.00733913406527642
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": -0.013814517674901605
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.02191805759429033
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.015441045968171307
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0216884402166444
+      },
+      {
+        "Index": "IBOXIG Index",
+        "Performance": 0.024166815006977149
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.007056238314758323
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.0062743358105528113
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.01270390530139176
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.039736510773976885
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": -0.00863416558313479
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.0074263809083863208
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.045873614389606576
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.039881736481408137
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.024376040455402315
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.033099378194927365
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.010425729579874199
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.010264751139443362
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.014955990264010177
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.014703021704039587
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.018189578338208223
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0021272154253816344
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.02131453791164728
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.038407727282546489
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.029745026622176707
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.044171567783054866
+      },
+      {
+        "Index": "0000AR Index",
+        "Performance": -0.072929457733228009
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": -0.010405157283023714
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.010680372605622601
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.0009785098869639075
+      },
+      {
+        "Index": "JPEIGLBL Index",
+        "Performance": 0.010984514667002232
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.032477259271873837
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.010957666391801402
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": 0.025314635038170996
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.016227918432005661
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.010278859639695881
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": -0.0065968613270480647
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.045324814590374629
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.062730783935571077
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": 0.044698571173878765
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.071312714929916643
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": -0.0049815525563077223
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0745339393253186
+      },
+      {
+        "Index": "SXXR Index",
+        "Performance": -0.029058956502716282
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.034489319640871541
+      },
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.041252044370119645
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.069112176468326014
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0098991220629394139
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.011273898794025294
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.029719300183871478
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.003069906773580322
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0023346628632359145
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.034206870780647547
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.017110593148449427
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.023282972641894606
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.0082694260331575009
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": 0.024801682928860203
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XNDX Index",
+        "Performance": 0.0055439050833263614
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": 0.011084398594223499
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.0095166415788594527
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.0079350537633808838
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.014546287247048206
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.035729011059744908
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": -0.043313822230665044
+      },
+      {
+        "Index": "XNDX Index",
+        "Performance": -0.028849822554398163
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.018382720575980782
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.0786159532221189
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "DWGRST Index",
+        "Performance": 0.037607179954510128
+      },
+      {
+        "Index": "SPTR Index",
+        "Performance": -0.02392166370644655
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.015122999454511565
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.022759732279845846
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.00703604744445685
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.023033598124755805
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": -0.01026390184060344
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.01599954847686913
+      },
+      {
+        "Index": "BEUSGA Index",
+        "Performance": 0.018053036192450689
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": -0.017220372231047887
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.064473365164324115
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.035062327768892843
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.063964868147340814
+      },
+      {
+        "Index": "BERPGA Index",
+        "Performance": 0.0041322578867295512
+      },
+      {
+        "Index": "BCIT1T Index",
+        "Performance": 0.0040533339476289676
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": 0.03189316452538371
+      },
+      {
+        "Index": "SPI Index",
+        "Performance": 0.042325904240692491
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.044850764642134777
+      },
+      {
+        "Index": "LG30TRUU Index",
+        "Performance": 0.017798710689473696
+      },
+      {
+        "Index": "TUKXG Index",
+        "Performance": 0.056896437492025775
+      }
+    ]
+  },
+  {
+    "PerfomanceResults": [
+      {
+        "Index": "SPI Index",
+        "Performance": 0.020745737056794278
+      },
+      {
+        "Index": "XAUUSD Curncy",
+        "Performance": -0.0091770723634723161
+      },
+      {
+        "Index": "MXEF Index",
+        "Performance": 0.0052595662741672378
+      },
+      {
+        "Index": "RU20INTR Index",
+        "Performance": -0.047444307317464185
+      },
+      {
+        "Index": "BCOMTR Index",
+        "Performance": -0.00040665504536929742
+      }
+    ]
+  }
+]
