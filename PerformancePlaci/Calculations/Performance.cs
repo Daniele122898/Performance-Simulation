@@ -16,7 +16,7 @@ namespace PerformancePlaci.Calculations
 
             int n = lines[0].Values.Count;
 
-            for (int i = 2; i < n; i++)
+            for (int i = 1; i < n; i++)
             {
                 // get all the start values
                 double t1 = lines[endIndex-22].Values[i];

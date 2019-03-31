@@ -27,6 +27,24 @@ namespace PerformancePlaci.Parser
             }
         }
         
+        public static void WriteRiskFile(string path)
+        {
+            string fileName = $"riskHistory.csv";
+
+            path += fileName;
+
+            if (File.Exists(path))
+            {
+                File.Delete(path);
+            }
+            
+            using (var writer = new StreamWriter(path))
+            using (var csv = new CsvWriter(writer))
+            {    
+                csv.WriteRecords(Storage.RiskHistory);
+            }
+        }
+        
         public static (List<string> header, List<Line> lines) Parse(string path)
         {
             using (TextReader reader = new StreamReader(path))

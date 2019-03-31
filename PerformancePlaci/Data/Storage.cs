@@ -12,6 +12,8 @@ namespace PerformancePlaci.data
         public static List<Step> PerformanceList = new List<Step> ();
         public static double PerformanceIndexed = 100;
         public static List<double> IndexedHistory { get; set; } = new List<double>();
+        
+        public static List<float> RiskHistory { get; set; } = new List<float>();
 
         static Storage()
         {
@@ -25,6 +27,8 @@ namespace PerformancePlaci.data
             PerformanceList.Clear();
             IndexedHistory.Clear();
             IndexedHistory.Add(100.0);    
+            
+            RiskHistory.Clear();
         }
 
         public static void Save(string path, int amount)

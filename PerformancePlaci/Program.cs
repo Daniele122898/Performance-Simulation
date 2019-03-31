@@ -10,7 +10,61 @@ namespace PerformancePlaci
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+                Console.WriteLine("What do you want to do?\n" +
+                                  "1. Do Performance Calculations\n" +
+                                  "2. Do Risk Calculations");
+                string readChar = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(readChar) || 
+                    !int.TryParse(readChar, out int num) || 
+                    num > 2 || 
+                    num < 1 )
+                {
+                    Console.WriteLine("Please enter 1 or 2!");
+                    continue;
+                }
 
+                if (num == 1)
+                    DoPerformanceCalculations();
+                else 
+                    DoRiskCalculations();
+            }
+        }
+
+        private static void DoRiskCalculations()
+        {
+            (List<string> header, List<Line> lines) = CsvParser.Parse("./Data/data.csv");
+
+            Storage.Reset();
+
+            int endIndex = 131;
+            // calculate performances
+            while (true)
+            {
+                var performances = Performance.Calc(lines, endIndex);
+                if (performances == null) break;
+                
+                float count = 0;
+                
+                foreach (var performance in performances)
+                    if (performance > 0)
+                        count++;
+
+                float risk = count / performances.Count;
+                
+                Storage.RiskHistory.Add(risk);
+                
+                endIndex++;
+            }
+            
+            CsvParser.WriteRiskFile("./Data/");
+            
+            Console.WriteLine("Done.");
+        }
+
+        private static void DoPerformanceCalculations()
+        {
             (List<string> header, List<Line> lines) = CsvParser.Parse("./Data/data.csv");
 
             while (true)
@@ -20,7 +74,13 @@ namespace PerformancePlaci
                 if (!int.TryParse(Console.ReadLine().Trim(), out int indexCount))
                 {
                     Console.WriteLine("You stupid. Enter number pls");
-                    System.Environment.Exit(-1);
+                    continue;
+                }
+
+                if (indexCount > header.Count-2)
+                {
+                    Console.WriteLine("Number must be smaller or equal to total amount of indexes. Not counting the first index!");
+                    continue;
                 }
                 
     
@@ -48,7 +108,6 @@ namespace PerformancePlaci
                 }
                 
             }
-
         }
     }
 }
