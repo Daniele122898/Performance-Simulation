@@ -65,8 +65,28 @@ namespace PerformancePlaci
 
         private static void DoPerformanceCalculations()
         {
-            (List<string> header, List<Line> lines) = CsvParser.Parse("./Data/data.csv");
+            (List<string> header, List<Line> lines) = (null, null);
 
+            try
+            {
+                (header, lines) = CsvParser.Parse("./Data/data.csv");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("Hit enter to exit.");
+                Console.Read();
+                Environment.Exit(-1);
+            }
+
+            if (header == null || lines == null)
+            {
+                Console.WriteLine("CSV file could not be Read");
+                Console.WriteLine("Hit enter to exit.");
+                Console.Read();
+                Environment.Exit(-1);
+            }
+            
             while (true)
             {
                 Storage.Reset();
@@ -82,7 +102,6 @@ namespace PerformancePlaci
                     Console.WriteLine("Number must be smaller or equal to total amount of indexes. Not counting the first index!");
                     continue;
                 }
-                
     
                 int endIndex = 131;
                 // calculate performances
@@ -90,6 +109,8 @@ namespace PerformancePlaci
                 {
                     var performances = Performance.Calc(lines, endIndex);
                     if (performances == null) break;
+
+                    if (endIndex + 1 >= lines.Count) break;
                     
                     Performance.CalcPerformance(indexCount, endIndex+1, lines, header, performances);
     
